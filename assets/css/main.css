@@ -1398,6 +1398,7 @@ table {
   /* background-color: rgb(7, 37, 93); */
   /* background-image: url("../../images/programming-class.jpg"); */
   /* filter: blur(8px); */
+  max-width: 100%;
   width: 100%;
 }
 th {
@@ -1413,19 +1414,25 @@ th {
 .last-th {
     border-bottom: 1px solid rgb(104, 104, 104);
 }
-.table-d th {
-  width: 213px;
-}
-.table-c th {
-  width: 150px;
+
+.table-c th, .table-a th {
+  width: auto;
   padding-left: 10px;
   padding-right: 10px;
 }
+
 td {
-  padding: 5px 0;
   border: 1px solid rgb(104, 104, 104);
   vertical-align: middle;
+  padding-left: 10px;
+  text-align: left;
 }
+
+td img {
+  max-width: 100%;
+  min-width: 20%;
+}
+
 .discount {
     color: rgb(228, 2, 2);
     font-weight: bold;
@@ -1447,18 +1454,11 @@ td {
     justify-content: center;
   }
   table {
-    font-size: 14px;
-  }
-  .table-d th {
-    width: 126px;
     font-size: 12px;
   }
-  .table-d td, .table-c td  {
-    font-size: 12px;
-  }
-  .table-c th {
-    width: 30px;
-    font-size: 12px;
+  .table th {
+    width: 100%;
+    min-width: 30px;
   }
 }
 
@@ -4764,9 +4764,4 @@ label .name {
         font-size: 100%;
         margin-right: 3vw;
     }
-}
-
-.text-left {
-    padding-left: 10px;
-    text-align: left;
 }

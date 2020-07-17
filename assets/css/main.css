@@ -2926,6 +2926,8 @@ body.is-touch .main {
 .feature-card-title {
     font-size: 26px;
     margin-bottom: 18px;
+    min-height: 115px;
+    border-bottom: 1.5px solid rgb(49, 47, 47);
 }
 /* Number */
 .feature-num {
@@ -4772,7 +4774,7 @@ label .name {
 }
 
 .slack-review-box {
-    background-image: linear-gradient(#7F7FD5, #86A8E7, #91EAE4);
+    /* background-image: linear-gradient(#7F7FD5, #86A8E7, #91EAE4); */
     height: 800px;
     width: 87%; 
     margin-left: auto; 

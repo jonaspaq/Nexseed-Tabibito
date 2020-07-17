@@ -2448,9 +2448,9 @@ body {
     margin: auto;
 }
 
-#curriculum>.content {
+/* #curriculum>.content {
     width: 70%;
-}
+} */
 
 @media all and (max-width: 767px) {
     #curriculum > .content {

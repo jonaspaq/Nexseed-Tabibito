@@ -100,7 +100,7 @@
 	<!-- Intro -->
 	<section id="intro" class="main style1 dark fullscreen">
 		<div class="intro-wrap">			
-			<img src="images/new-top-1.png" alt="旅人エンジニア留學" class="intro-img-logo">
+			<img src="images/new-top-4.png" alt="旅人エンジニア留學" class="intro-img-logo">
 		</div>
 		<a href="#work" class="button style2 down anchored hidden">Next</a>
 	</section>
@@ -227,7 +227,7 @@
 				<p class="section-description">お仕事をしながら（学校に通いながら）、夜の時間を使って半年かけて、エンジニアに転職するためのスキルを身につけるコースをご用意しています。週に2回のプログラミングの授業を受講、週に3回自習時間を取り学習していただく、プログラミングを学習したけど時間がないというお悩みを解消できるスケジュールになっています。</p>
 			</header>
 
-			<img src="images/graph-c-1.png" width="100%" />
+			<img src="images/graph-c-2.png" width="100%" style="box-shadow: 0 0 7px gray" />
 			<!-- 料金表 -->
 			<!--  -->
 			<table class="table-a table-d table-d-a">
@@ -521,73 +521,9 @@
 	<section id="reviews">
 		<div class="review-content">
 			<h3 class="">開講中のSlackコミュニケーション</h3>
-			<div class="review-content-inner">
-				<div class="tweets-wrap">
-					<div class="grid-item tweet-grid1">
-						<div class="tweet">
-							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">打ち込めることもなく<br>ずっと迷走しながら過ごしていたので<br>3週間で鬼のように成長した気分<br><br>1人じゃ絶対無理だった👩🏻‍💻<br><br>皆さんに出会い、新しい自分にも出会い<br>参加して本当に良かったと思ってる今<br><br>(もう1つLPを作ってる途中に突然キタ)<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/xuRQFvLGvI">pic.twitter.com/xuRQFvLGvI</a></p>&mdash; つぐ🐑 (@yp_17_) <a href="https://twitter.com/yp_17_/status/1266763958209282048?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-						</div>
-					</div>
-
-					<div class="grid-item tweet-grid2">
-						<div class="tweet">
-							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3週間ぶち込んでフロントエンジニアスキルを習得しました🧑‍💻<br><br>感想としては独学だと同じ到達点まで1年かかったり挫折してただろうなという感じです...!!!<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/LVjoD2iAH7">pic.twitter.com/LVjoD2iAH7</a></p>&mdash; KOH🇬🇪 (@Luck81O) <a href="https://twitter.com/Luck81O/status/1266371862751133698?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-						</div>
-
-						<div class="tweet">
-							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像のサイズ変わらない事に30分くらい悩んだけどめちゃくちゃ初期の頃に習ったしこの時間だしどうにか自分でやりたくて粘ったらまじでドット一個抜けてて反映されてなくてほんっっとに心の底からぴえんが出た。ぐぎぎ…<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　🥕</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1265277641738731523?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-						</div>
-
-					</div>
-
-					<div class="grid-item tweet-grid3">
-						<div class="tweet">
-
-							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【旅人エンジニア留学】11日目<br><br>・感想<a href="https://twitter.com/NY_ruisu?ref_src=twsrc%5Etfw">@NY_ruisu</a> さんと<a href="https://twitter.com/Luck81O?ref_src=twsrc%5Etfw">@Luck81O</a> <br>さんへの質問コーナー楽しい😆<br><br>・英語<br>自分が考えてることを英語で<br><br>・プログラミング<br>ドメインとサーバーとるの簡単！<a href="https://twitter.com/NexSeed_Cebu?ref_src=twsrc%5Etfw">@NexSeed_Cebu</a> <a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a><a href="https://twitter.com/hashtag/%E6%97%85%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%83%8D%E3%81%8D%E7%94%9F%E3%81%8D%E3%82%8B?src=hash&amp;ref_src=twsrc%5Etfw">#旅するように働き生きる</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニア</a> <a href="https://twitter.com/hashtag/IT%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#IT留学</a><a href="https://twitter.com/hashtag/nexseed?src=hash&amp;ref_src=twsrc%5Etfw">#nexseed</a></p>&mdash; 鈴木 俊樹 (@08to05shi) <a href="https://twitter.com/08to05shi/status/1264932068242239488?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-						</div>
-
-						<div class="tweet">
-							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おすすめしないけどやってる人が多いフリーランス的スキルアップ方法は、背伸びをした仕事を取る、提案すること。調べつつやる。<br><br>ただし、各分野で師匠的な人を必ず見つけておくこと。相談できる人がいない状況だと非常に辛い。<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; Kuniyoshi Ichi (@92441K) <a href="https://twitter.com/92441K/status/1263630572183629825?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-						</div>
-					</div>
-					<div class="grid-item tweet-grid4">
-						<div class="tweet">
-							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">授業には直接は関係ないですが<br>持続化給付金の申請出来ました！🎊✨<br>ずっと内容を勘違いしていて対象でない…と思っていたのですが　<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　の講師陣は<br>フリーランスの大先輩なので相談できて対象だと判明！<br>仲間がいるとこうも心強いとは…😭　感謝感謝です🙇🏻‍♀️🙇🏻‍♀️<br>(結構本気で助かった)</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1261970834123448321?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-						</div>
-						<div class="tweet">
-							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">終わってしまった。😢<br>この気持ちを忘れずに。<br>もっと成長したくなりました。<br>私もウェブマスター目指しちゃおう！<br>皆さんに会う時はまた成長しているように！！<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1266403606447570944?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="tweets-sp">
-				<div class="tweet">
-					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">打ち込めることもなく<br>ずっと迷走しながら過ごしていたので<br>3週間で鬼のように成長した気分<br><br>1人じゃ絶対無理だった👩🏻‍💻<br><br>皆さんに出会い、新しい自分にも出会い<br>参加して本当に良かったと思ってる今<br><br>(もう1つLPを作ってる途中に突然キタ)<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/xuRQFvLGvI">pic.twitter.com/xuRQFvLGvI</a></p>&mdash; つぐ🐑 (@yp_17_) <a href="https://twitter.com/yp_17_/status/1266763958209282048?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
-				<div class="tweet">
-					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3週間ぶち込んでフロントエンジニアスキルを習得しました🧑‍💻<br><br>感想としては独学だと同じ到達点まで1年かかったり挫折してただろうなという感じです...!!!<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/LVjoD2iAH7">pic.twitter.com/LVjoD2iAH7</a></p>&mdash; KOH🇬🇪 (@Luck81O) <a href="https://twitter.com/Luck81O/status/1266371862751133698?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
-
-				<div class="tweet">
-					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像のサイズ変わらない事に30分くらい悩んだけどめちゃくちゃ初期の頃に習ったしこの時間だしどうにか自分でやりたくて粘ったらまじでドット一個抜けてて反映されてなくてほんっっとに心の底からぴえんが出た。ぐぎぎ…<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　🥕</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1265277641738731523?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
-
-			
-				<div class="tweet">
-
-					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【旅人エンジニア留学】11日目<br><br>・感想<a href="https://twitter.com/NY_ruisu?ref_src=twsrc%5Etfw">@NY_ruisu</a> さんと<a href="https://twitter.com/Luck81O?ref_src=twsrc%5Etfw">@Luck81O</a> <br>さんへの質問コーナー楽しい😆<br><br>・英語<br>自分が考えてることを英語で<br><br>・プログラミング<br>ドメインとサーバーとるの簡単！<a href="https://twitter.com/NexSeed_Cebu?ref_src=twsrc%5Etfw">@NexSeed_Cebu</a> <a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a><a href="https://twitter.com/hashtag/%E6%97%85%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%83%8D%E3%81%8D%E7%94%9F%E3%81%8D%E3%82%8B?src=hash&amp;ref_src=twsrc%5Etfw">#旅するように働き生きる</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニア</a> <a href="https://twitter.com/hashtag/IT%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#IT留学</a><a href="https://twitter.com/hashtag/nexseed?src=hash&amp;ref_src=twsrc%5Etfw">#nexseed</a></p>&mdash; 鈴木 俊樹 (@08to05shi) <a href="https://twitter.com/08to05shi/status/1264932068242239488?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
-
-				<div class="tweet">
-					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おすすめしないけどやってる人が多いフリーランス的スキルアップ方法は、背伸びをした仕事を取る、提案すること。調べつつやる。<br><br>ただし、各分野で師匠的な人を必ず見つけておくこと。相談できる人がいない状況だと非常に辛い。<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; Kuniyoshi Ichi (@92441K) <a href="https://twitter.com/92441K/status/1263630572183629825?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
-			
-				<div class="tweet">
-					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">授業には直接は関係ないですが<br>持続化給付金の申請出来ました！🎊✨<br>ずっと内容を勘違いしていて対象でない…と思っていたのですが　<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　の講師陣は<br>フリーランスの大先輩なので相談できて対象だと判明！<br>仲間がいるとこうも心強いとは…😭　感謝感謝です🙇🏻‍♀️🙇🏻‍♀️<br>(結構本気で助かった)</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1261970834123448321?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
-				<div class="tweet">
-					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">終わってしまった。😢<br>この気持ちを忘れずに。<br>もっと成長したくなりました。<br>私もウェブマスター目指しちゃおう！<br>皆さんに会う時はまた成長しているように！！<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1266403606447570944?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
+			<div class="slack-review-box">
+				<img src="images/photo-8.png" class="slack-review-1" alt="slack-review" width="60%" />
+				<img src="images/photo-8.1.png" class="slack-review-2" alt="slack-review" width="60%" />
 			</div>
 		</div>
 	</section>

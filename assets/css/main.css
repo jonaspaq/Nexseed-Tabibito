@@ -1417,7 +1417,9 @@ th {
   width: 213px;
 }
 .table-c th {
-  width: 100px;
+  width: 150px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 td {
   padding: 5px 0;
@@ -3426,6 +3428,17 @@ body.is-touch .main {
   font-size: 24px;
   margin-right: 7px;
 }
+.recommend-icon-box {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 24px;
+    height: 210px;
+    overflow: hidden;
+}
+.recommend-icon {
+    width: 100%;
+}
 
 @media screen and (max-width: 1100px) {
   .rec-item-bottom h3 {
@@ -3811,9 +3824,16 @@ ul {
   transform: skew(-20deg);
   margin: 0 6px;
 }
+.webinar-icon-box {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 24px;
+    height: 200px;
+    overflow: hidden;
+}
 .webinar-icon {
-  width: 100%;
-  margin-bottom: 24px;
+    width: 100%;
 }
 /* 117 + 24 = 141
 138 + x = 141 */

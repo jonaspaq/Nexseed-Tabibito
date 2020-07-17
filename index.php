@@ -603,58 +603,48 @@
 				
 				<div class="webinar-card-head"></div>
 				<h3>マイナビとの提携</h3>
-				<img class="webinar-icon" src="images/photo-9.jpg" alt="nomad_icon">
-				<ul>
+				<div class="webinar-icon-box">
+					<img class="webinar-icon" src="images/photo-9.jpg" alt="nomad_icon">
+				</div>
+				<!-- <ul>
 					<li>KOH</li>
 					<span class="slash"> / </span>
 					<li>７月１日（水）</li>
 					<span class="slash"> / </span>
 					<li>１９時〜２０時</li>
-				</ul>
+				</ul> -->
 				<p>‪
 					大手人材紹介会社のマイナビと提携をしています。<br><br>
 					マイナビ転職プロのキャリアカウンセラーが卒業後の就職先紹介やキャリア・転職相談、履歴書の添削等のサポートを行い、応募企業への就職・転職活動へ導きます。
 				‬</p>
-				<div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div>
+				<!-- <div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div> -->
 			</div>
 	
 			<div class="webinar-card">
 			
 				<div class="webinar-card-head"></div>
 				<h3>卒業生の実績ある転職一覧</h3>
-				<img class="webinar-icon" src="images/photo-10.JPG" alt="nomad_icon">
-				<ul>
-					<li>前田塁</li>
-					<span class="slash"> / </span>
-					<li>７月２日（木）</li>
-					<span class="slash"> / </span>
-					<li>１９時〜２０時</li>
-				</ul>
+				<div class="webinar-icon-box">
+					<img class="webinar-icon" src="images/photo-10.jpg" alt="nomad_icon">
+				</div>
 				<p>
 					これまで7年間に2,000名以上の卒業生を輩出してきました。卒業後は国内の大手企業だけなく、外資系企業へエンジニアとして就職している方や、起業したりフリーランスとして活躍されている方が多数います。 <br><br>
 					卒業生の転職/就職企業例<br><br>
 					Yahoo!、楽天、ソフトバンク、NTTデータ、Accenture、Twitter、リクルートライフスタイル、リクルート住まいカンパニー、リクルートキャリア、サイバーエージェント、サイバー・バズ、クラウドワークス、メンバーズ 
 				</p>
-				<div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div>
 			</div>
 		
 			<div class="webinar-card">
 				<div class="webinar-card-head"></div>
 				<h3>世界16か国で活躍される卒業生</h3>
-				<img class="webinar-icon" src="images/photo-11.JPG" alt="nomad_icon">
-				<ul>
-					<li>栢森威瑠</li>
-					<span class="slash"> / </span>
-					<li>７月３日（金）</li>
-					<span class="slash"> / </span>
-					<li>１９時〜２０時</li>
-				</ul>
+				<div class="webinar-icon-box">
+					<img class="webinar-icon" src="images/photo-11.jpg" alt="nomad_icon">
+				</div>
 				<p>
 					卒業生は日本だけでなく、世界中で活躍しています。<br><br>
 					<img src="images/flags-1.png" width="100%" /> <br>
 					日本　フィリピン　中国　アメリカ　カナダ　イギリス　オーストラリア　ニュージーランドインド　台湾　タイ　ベトナム　カンボジア　ミャンマー　コロンビア　ペルー
 				</p>
-				<div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div>
 			</div>
 			
 		</div>
@@ -681,7 +671,9 @@
 		<h2>こんな方におすすめ</h2>
 		<div class="rec-wrap">
 			<div class="rec-item">
-				<img src="images/photo-12.jpg" alt="recommend">
+				<div class="recommend-icon-box">
+					<img class="recommend-icon" src="images/photo-12.jpg" alt="recommend">
+				</div>
 				<div class="rec-item-bottom">
 					<h3><em>1.</em>仕事をしながらプログラミング学習を両立したい人</h3>
 					<p>
@@ -690,7 +682,9 @@
 				</div>
 			</div>
 			<div class="rec-item">
-				<img src="images/photo-13.jpg" alt="recommend">
+				<div class="recommend-icon-box">
+					<img class="recommend-icon" src="images/photo-13.jpg" alt="recommend">
+				</div>
 				<div class="rec-item-bottom">
 					<h3><em>2.</em>自習時間をしっかり取りたい人</h3>
 					<p>
@@ -699,7 +693,9 @@
 				</div>
 			</div>
 			<div class="rec-item">
-				<img src="images/photo-14.JPG" alt="recommend">
+				<div class="recommend-icon-box">
+					<img class="recommend-icon" src="images/photo-14.jpg" alt="recommend">
+				</div>
 				<div class="rec-item-bottom">
 					<h3><em>3.</em>マーケティング・ディレクションをしながらエンジニアにもなりたい人</h3>
 					<p>

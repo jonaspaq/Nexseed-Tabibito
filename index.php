@@ -521,8 +521,9 @@
 	<section id="reviews">
 		<div class="review-content">
 			<h3 class="">開講中のSlackコミュニケーション</h3>
-			<div>
-				<h2 style="width: 45em">test</h2>
+			<div class="slack-review-box">
+				<img src="images/photo-8.png" class="slack-review-1" alt="slack-review" width="60%" />
+				<img src="images/photo-8.1.png" class="slack-review-2" alt="slack-review" width="60%" />
 			</div>
 		</div>
 	</section>

@@ -4770,3 +4770,36 @@ label .name {
     padding-left: 10px;
     text-align: left;
 }
+
+.slack-review-box {
+    background-image: linear-gradient(#7F7FD5, #86A8E7, #91EAE4);
+    height: 800px;
+    width: 87%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+.slack-review-1 {
+    position: absolute;
+    right: 0;
+}
+.slack-review-2 {
+    position: absolute;
+    bottom: 0;
+}
+
+@media all and (max-width: 1200px) {
+    .slack-review-box {
+        height: auto;
+    }
+    .slack-review-1 {
+        position: static;
+        width: 100%;
+    }
+    .slack-review-2 {
+        position: static;
+        width: 100%;
+    }
+}

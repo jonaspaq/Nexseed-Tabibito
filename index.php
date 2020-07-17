@@ -1,0 +1,947 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<!-- Google Tag Manager -->
+	<!-- <script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-K95V8MS');
+	</script> -->
+	<!-- End Google Tag Manager -->
+	<title>NexSeed 旅人エンジニア留学</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="Keywords" content="NexSeed,フィリピン留学,セブ島,語学留学,語学学校,英語,ビジネス英語,格安,企業研修,短期留学,海外研修,グローバル人材,語学研修,旅人エンジニア留学">
+	<meta name="description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
+
+	<meta property="og:title" content="NexSeed 旅人エンジニア留学">
+	<meta property="og:description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://nexseed.net/lp/tabibito-engineer">
+	<meta property="og:image" content="https://nexseed.net/meta_top_img.png">
+	<meta name="thumbnail" content="https://nexseed.net/meta_top_img.png" />
+	<link rel="shortcut icon" href="https://nexseed.net/n-icon.png" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<!-- <link rel="stylesheet" href="assets/css/main_test.css" /> -->
+	<!-- <link rel="stylesheet" href="../inc/footer.css"> -->
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+	<!-- <script>
+		(function(d) {
+			var config = {
+					kitId: 'mea8unq',
+					scriptTimeout: 3000,
+					async: true
+				},
+				h = d.documentElement,
+				t = setTimeout(function() {
+					h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+				}, config.scriptTimeout),
+				tk = d.createElement("script"),
+				f = false,
+				s = d.getElementsByTagName("script")[0],
+				a;
+			h.className += " wf-loading";
+			tk.src = 'https://use.typekit.net/' + config.kitId + '.js';
+			tk.async = true;
+			tk.onload = tk.onreadystatechange = function() {
+				a = this.readyState;
+				if (f || a && a != "complete" && a != "loaded") return;
+				f = true;
+				clearTimeout(t);
+				try {
+					Typekit.load(config)
+				} catch (e) {}
+			};
+			s.parentNode.insertBefore(tk, s)
+		})(document);
+	</script> -->
+</head>
+
+<!-- <body class="is-preload"> -->
+<body class="">
+	<!-- Google Tag Manager (noscript) -->
+	<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K95V8MS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+	<!-- End Google Tag Manager (noscript) -->
+	<?php
+
+	// function h($s)
+	// {
+	// 	return htmlspecialchars($s, ENT_QUOTES, "UTF-8");
+	// }
+	// if (isset($_GET["ns_ref"])) {
+	// 	$refcode = h($_GET["ns_ref"]);
+	// } else {
+	// 	$refcode = "";
+	// }
+
+	// $now_y = date("Y");
+	// $now_m = date("Yn");
+	?>
+	<!-- Header -->
+	<?php
+	include('assets/inc/header.html');
+	?>
+
+	<!-- Intro -->
+	<section id="intro" class="main style1 dark fullscreen">
+		<div class="intro-wrap">			
+			<img src="images/new-top-1.png" alt="旅人エンジニア留學" class="intro-img-logo">
+		</div>
+		<a href="#work" class="button style2 down anchored hidden">Next</a>
+	</section>
+	
+
+	<!-- Covid19 -->
+	<section id="work" class="main style3 primary">
+		<div class="content">
+			<header>
+				<h2>Seed tech Onlineの<span style="color: red;">夜間じっくりコース</span>がスタートしました</h2>
+			</header>
+			<p>				
+				働きながらプログラミングと英語をオンラインで学び、グローバルに活躍できるエンジニアになろう。
+			</p>
+
+			<div class="conversion_btn">
+				<p><a href="#curriculum" class="curriculum-btn">詳しいカリキュラムはこちら</a></p>
+			</div>
+
+		</div>
+	</section>
+
+<!-- 間延び -->
+	<section id="features">
+		<h2 class="feature-title">夜間じっくりコースの特徴</h2>
+		<h3 class="feature-sub-title">Features</h3>
+			
+		<div class="feature-cards-wrap">
+			<div class="feature-cards">
+				<div class="feature-card">
+					
+					<h3 class="feature-card-title"><span class="feature-num">1</span>NexSeed独自オンライン学習マネジメントシステムの活用</h3>
+					<p class="feature-card-description des-one">
+						本コースのゴールは仕事をしながら（学校に通いながら）、夜の時間を使って半年かけて、エンジニアに転職するためのスキルを身につけることです。<br>
+						<br>
+						仕事をしながらでも学習モチベーションを保つため、2,000名超の卒業生のデータをもとにNexSeedが独自に開発した学習マネジメントシステムを用いて、生徒ごとの学習時間やカリキュラム進捗率を可視化します。進捗が可視化されることで、生徒同士で学習意欲を刺激しあい、また、学習時間が足りていない場合には学習を促すようサポートします。<br>
+					</p>
+				</div>
+				<div class="feature-card">
+					
+					<h3 class="feature-card-title"><span class="feature-num">2</span>チーム開発で実務に近い経験が得られる</h3>
+					<p class="feature-card-description des-two">
+						実際の開発現場では、チームで業務をこなすことが一般的であり、1人でのサービス開発ではプログラミング以外の現場で必要となる知識・スキルが得られません。そのため、Seed Tech Onlineでは学習のゴールとしてオリジナルWebサービスをチームで開発します。<br><br>
+						企画～リリースまでの全体工程や、現場でも使用されている最新の開発手法を学べるよう構成されたカリキュラムを使い、講師サポートの元開発を進めます。 <br>
+					</p>
+				</div>
+				<div class="feature-card">
+					
+					<h3 class="feature-card-title"><span class="feature-num">3</span>Slackでのコミュニケーション/ 動画で講義復習、わからない部分は講師に相談可</h3>
+					<p class="feature-card-description des-three">
+						同じタームの生徒専用のチャンネルを作成するため、日々アップデートされる情報をお互いにシェアしたり、相談しあうことが可能です。また、今後は全てのタームの生徒全員が参加するチャンネルを作成し、生徒がオンラインIT留学の卒業生へ質問できるような環境を用意し、コミュニティ化を推進する予定です。<br><br>
+						また、　講義内容は必ず翌日午前中に動画として展開されます。多忙でご参加いただけなかった回の授業も動画にてキャッチアップが可能です。また、講義や動画のあとに自分では解決できない疑問があった際には、講師に個別に相談することが可能です。
+						
+					</p>
+				</div>
+			</div>
+			
+		</div>
+	</section>
+<!-- 	
+	<section id="one" class="main style2 right dark fullscreen">
+		<div class="content box style2">
+			<header>
+				<h2>リモートワークで月5万円を稼げるようになる</h2>
+			</header>
+			<p>
+				旅人エンジニア留学の成功は3週間で月に5万円を自分の力で稼げる技術を身につけること。<br>自分だけの自己紹介ページとWordPressサイトを学びながら立ち上げて、実際に仕事を見つける動きをするところまで期間内で進めます。実践形式にこだわります。<br><br>カリキュラムには英語力を伸ばすためのマンツーマン授業も含まれます。エンジニアとしての仕事は日本国内に限らず、世界各地にありますからシンガポールチームとの仕事が終わったら、次はインドからの仕事へとグローバルに働く旅人エンジニアを目指しましょう。<br><br>NexSeedのエンジニア留学は2020年時点で約2000名以上の卒業生数を誇り、就職率は92%、起業数18社以上と、圧倒的な成果を残しています。
+			</p>
+		</div>
+		<a href="#two" class="button style2 down anchored">Next</a>
+	</section>
+
+	
+	<section id="two" class="main style2 left dark fullscreen">
+		<div class="content box style2">
+			<header>
+				<h2>NexSeed専任プログラミング講師の手厚いサポート</h2>
+			</header>
+			<p>
+				旅人エンジニア授業では、少人数に対して、専任のプログラミング講師がしっかりサポートします。<br>
+				Seed Tech Schoolではこれまで2000人以上の卒業生を送り出してきました。その経験を生かした挫折しない仕組みで、みなさんが目標に辿り着けるよう全力でサポートします。<br>
+				授業の時間外にも、Slackというコミュニケーションツール上で質問ができますので、自習する際に答えがわからず、何時間も一人で悩むという心配も無用です。
+			</p>
+		</div>
+		<a href="#three" class="button style2 down anchored">Next</a>
+	</section>
+
+	
+	<section id="three" class="main style2 right dark fullscreen">
+		<div class="content box style2">
+			<header>
+				<h2>旅人講師と共に、将来を設計する</h2>
+			</header>
+			<p>
+				本コースでは、2名の特別講師を迎えます。1人目は、「<a href="https://twitter.com/ano_georgia">あの会社</a>」代表で店舗経営、美容師、フロントエンジニア、マーケター、編集者と幅広い分野で活躍するKOH氏。2人目は<a href="http://inc.tabippo.net/">株式会社TABIPPO</a>より、TABIPPO.NET編集長の前田塁氏です。<br>
+				前田編集長・KOH氏自身も、世界中を旅しながらフリーランスとしても働いている、いわば卒業後のロールモデルです。<br><br>旅人エンジニアとして成功するためには、少数派として自分を律しながら、戦略と計画を持って人生をコントロールしていく必要があります。<br><br>これからどんな人生を過ごしていくのかを一緒に考えてみませんか。様々なワークショップやコミュニケーションの機会をご用意してお待ちしてます。
+
+			</p>
+		</div>
+	</section> -->
+
+<!-- 間延び -->
+
+	<!-- inq -->
+	<section id="inq" class="main style3 secondary">
+		<div class="content">
+			<header>
+				<h2>まずはお気軽にお問い合わせください</h2>
+				<p>NexSeedでは、LINEでお問い合わせを承っております。<br>カリキュラムや料金、申込方法について気になることがございましたら、<br>下のボタンよりお友達追加お願いいたします。</p>
+			</header>
+
+			<div class="conversion_btn animated">
+				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh
+				">詳細を<span class="line-text">LINE</span>で問い合わせ</a></p>
+			</div>
+		</div>
+	</section>
+
+	<section id="price" class="main style3 primary">
+		<div class="content">
+			<header>
+				<h2>概要</h2>
+				<h3>Overview</h3>
+				<p class="section-description">お仕事をしながら（学校に通いながら）、夜の時間を使って半年かけて、エンジニアに転職するためのスキルを身につけるコースをご用意しています。週に2回のプログラミングの授業を受講、週に3回自習時間を取り学習していただく、プログラミングを学習したけど時間がないというお悩みを解消できるスケジュールになっています。</p>
+			</header>
+
+			<img src="images/graph-c-1.png" width="100%" />
+			<!-- 料金表 -->
+			<!--  -->
+			<table class="table-a table-d table-d-a">
+				<tbody>
+					<tr>
+						<th rowspan="1">開催時期</th>
+						<td colspan="3">2020年8月10日〜2021年2月5日</td>
+					</tr>
+					<tr>
+						<th rowspan="1">メイン講師</th>
+						<td colspan="3">笹野 駿人（ササノハヤト）</td>
+					</tr>
+					<tr>
+						<th rowspan="1">参加人数※</th>
+						<td colspan="3">12名</td>
+					</tr>
+					<tr>
+						<th rowspan="1">曜日・時間</th>
+						<td colspan="3">
+						曜日：火&金<br>
+						時間：19～21時<br>
+						授業の曜日は開講日によって異なります。
+						</td>
+					</tr>
+					<tr>
+						<th rowspan="1">提供授業</th>
+						<td colspan="3">プログラミング講義2コマ/週×24週間</td>
+					</tr>
+					<tr>
+						<th rowspan="1">料金</th>
+						<td colspan="3">
+						¥598,000 <br>
+						早割 7/10まで ¥498,000<br>
+						※夜間じっくりコースには別途消費税が掛かります。
+						</td>
+					</tr>
+					<tr>
+						<th rowspan="1">入学金</th>
+						<td colspan="3">¥20,000 (1年以内に別コースで再入学される場合は入学金が不要です。 )</td>
+					</tr>
+					<tr>
+						<th rowspan="1">休校日</th>
+						<td colspan="3">7/10、9/3、9/28、11/2、11/30、12/8、12/24、12/25、12/28～31</td>
+					</tr>
+					<tr>
+						<th rowspan="1">1日のスケジュール</th>
+						<td colspan="3"><img src="images/graph-b-1.png"> </td>
+					</tr>
+				</tbody>
+			</table>
+			<table class="table-b table-d table-d-b hide-element">
+				<tbody>
+					<tr>
+						<th rowspan="1">開催時期</th>
+						<td colspan="3">2020年8月31日〜2020年9月25日</td>
+					</tr>
+					<tr>
+						<th rowspan="1">旅人メイン講師</th>
+						<td colspan="3">前田塁</td>
+					</tr>
+					<tr>
+						<th rowspan="1">メンター</th>
+						<td colspan="3">KOH</td>
+					</tr>
+					<tr>
+						<th rowspan="1">プログラミング講師</th>
+						<td colspan="3">栢森威瑠（カヤモリタケル）</td>
+					</tr>
+					<tr>
+						<th rowspan="1">参加人数<sup>※</sup></th>
+						<td colspan="2">12名</td>
+					</tr>
+					<tr>
+						<th rowspan="1">提供授業</th>
+						<td colspan="2">
+							プログラミング講義週6コマ/週<br>
+							旅人講義4コマ/週<br>
+							英語授業5コマ/週</td>
+					</tr>
+					<tr>
+						<th rowspan="3">授業スケジュール</th>
+						<td>プログラミング</td>
+						<td>月・水・金　19:00-21:00</td>
+					</tr>
+					<tr>
+						<td>旅人講義</td>
+						<td>火・木　19:00-21:00</td>
+					</tr>
+					<tr>
+						<td>英語</td>
+						<td>月〜金　18:00-19:00</td>
+					</tr>
+					<tr>
+						<th rowspan="1">料金</th>
+						<!-- <td>英語授業あり</td> -->
+						<td colspan="2">
+							¥218,000<br>
+							<span class="discount">7月31日までのお申し込みで2万円割引</span>
+						</td>
+						
+					</tr>
+					<tr>
+						<th rowspan="1">お申し込み締切</th>
+						<td colspan="2">2020年8月21日</td>
+					</tr>
+					<tr>
+						<th rowspan="1" class="last-th">特典</th>
+						<td colspan="2">
+							ネクシードへの英語留学2週間を特別価格でご案内<br>
+							1人部屋：<del>¥144,000</del> → <span class="price-bolder">¥98,000</span><br>
+							<span class="note">※上記に加えて、渡航費用、出国費用、VISA費用、生活費用が必要です。</span>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<span class="classmates-note" style="font-size:9pt;">※お問い合わせ状況によって参加人数を増枠する可能性があります。</span><br>
+			<span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br>
+			<div class="conversion_btn animated">
+				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
+			</div>
+		</div>
+	</section>
+
+	<section id="curriculum" class="main style3 primary">
+		<div class="content">
+			<header>
+				<h2>カリキュラム</h2>
+				<h3>Curriculum</h3>
+				<p class="section-description">卒業生2,000名超・セブ島最大級のプログラミングスクール「Seed Tech School」のカリキュラムを搭載、よりオンラインで学習しやすくするためにアップデートした動画教材などを使用しています。 </p>
+			</header>
+			<!-- カリキュラム予定表 -->
+			<!-- KOHさん -->
+
+			<!-- KOHさん　カリキュラム -->
+			<table class="table-a table-c table-c-a">
+				<tbody>
+					<tr>
+						<th colspan="2"><strong>プログラミング</strong></th>
+					</tr>
+					<tr>
+						<th>1週目~6週目</td>
+						<td class="text-left">
+							<strong> カリキュラム概要 </strong> <br>
+							今やフロント・サーバー・モバイルとすべての領域に対応するようになったトレンド言語JavaScriptをメインに、プログラミングの5大基本構文や0からシステムを開発していくフローを学ぶ。<br>
+							<strong> 到達レベル </strong> <br>
+							● プログラミング言語の基礎を理解し、アプリやサービスの裏側を意識した考え方ができる。<br>
+							<strong> 学習スキル </strong> <br>
+							● JavaScript / プログラミング基本構文 / プロダクト開発フロー / デバッグ手法 / Git / Github <br>
+							<strong> 成果物 </strong> <br>
+							● 簡単なWebアプリ（おみくじ・電卓）を作成できる。<br>
+							● アニメーションのついた動きのあるWebサイトを作成できる。<br>
+							● PC/SP対応のレスポンシブなWebサイトを作成できる。
+						</td>
+					</tr>
+					<tr>
+						<th>7週目~12週目</th>
+						<td class="text-left">
+							<strong> カリキュラム概要 </strong> <br>
+							Facebookでもベースとして使用され、世界で2.4億以上の実績があるPHPをメインに、データベースと連携したWebアプリの開発を行う。後半は海外でも人気No.1のWebフレームワークLaravelを使用したより実践に近い開発手法を学び、同時にチーム開発の企画・設計を講師陣のサポートを得ながら進めていく。<br>
+							<strong> 到達レベル </strong> <br>
+							● データベースの仕組み、システム上のデータ管理ロジックを理解し、プログラマとある程度共通認識を持った会話ができる。<br>
+							<strong> 学習スキル </strong> <br>
+							● PHP / MySQL / データベース設計 / 非同期処理 / Laravel / Githubフロー <br>
+							<strong> 成果物 </strong> <br>
+							● PHPとDBを連携したWebアプリ (TODO管理アプリ) 開発ができる。<br>
+							● 非同期通信を利用したWebアプリ開発ができる。<br>
+							● WEBフレームワークを使ってWebサービス (ブログ) 開発ができる。<br>
+						</td>
+					</tr>
+					<tr>
+						<th>13週目~24周目</th>
+						<td class="text-left">
+							<strong> カリキュラム概要 </strong> <br>
+							3～5人のチームでWEBフレームワークLaravelを使った実践チーム開発を行う。市場調査・企画・設計・開発・テスト・リリースとシステム開発に必要な全工程を自分たちで0から行い、オリジナルWebサービスを世界にリリースする。最終週に卒業プレゼンを在校生や講師オーディエンスの中実施。大手IT企業のエンジニアが見学に来ることも。<br>
+							<strong> 到達レベル </strong> <br>
+							● システムの企画～リリースまでの流れや難易度を理解している。システムの見積もりの正当性をある程度判断できる。 <br>
+							<strong> 学習スキル </strong> <br>
+							● サービス企画 / 市場調査 / マーケティング / 設計 / 仕様書作成 / チーム開発フロー / テスト / リリース / プレゼン <br>
+							<strong> 成果物 </strong> <br>
+							● オリジナルWebサービスをリリースできる。 <br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<div class="conversion_btn animated">
+				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
+			</div>
+		</div>
+	</section>
+
+
+
+	<section id="teachers" class="main style4 primary">
+
+		<div class="content-location">
+			<header>
+				<h2>講師紹介</h2>
+				<h3>Teacher</h3>
+				<p class="section-description">
+					プログラミング講師は、日本人の現役エンジニア。みなさんがつまずくポイントを熟知したプロフェッショナルです。困ったら、いつでも相談ができる頼れる存在です。
+				</p>
+			</header>
+			<div class="flexwrap">
+				<div class="imgbox-office">
+					<img src="images/shinya-1.jpg" alt="shinya">
+				</div>
+				<div class="textbox-office">
+					<h3>Shinya Hirai</h3>
+					<!-- <p>第３回 旅人メイン講師  /  第２回 メンター</p> -->
+					<hr>
+					<p>
+					　Seed Tech School の現役エンジニア。大学時代にプログラミングに魅了され、若くしてフリーランス・エンジニアとして独立。IT留学の立ち上げを牽引し、現在は同社のエンジニア・カリキュラム開発責任者 / マネージャーとして活躍。
+					</p>
+				</div>
+			</div>
+
+			<div class="flexwrap right">
+				<div class="imgbox-office">
+					<img src="images/hayato-1.jpg" alt="hayato">
+				</div>
+				<div class="textbox-office right">
+					<h3>Hayato Sasano</h3>
+					<!-- <p>第２回 旅人メイン講師  /  第３回 メンター</p> -->
+					<hr>
+					<p>
+						前職は外航船員。エンジニアになるためにスクールに通い途中挫折しかけるが、当時のメンターに励まされ、船上で半年以上インターネットもない環境で生活できる忍耐力で、毎日12時間以上勉強。自分のように苦労してる人を今度は自分が助けられるようになりたいと考え、講師として参画。
+					</p>
+				</div>
+			</div>
+
+			<div class="flexwrap">
+				<div class="imgbox-office">
+					<img src="images/takeru_kayamori.jpg" alt="takerukayamori">
+				</div>
+				<div class="textbox-office">
+					<h3>栢森 威瑠（かやもり たける）</h3>
+					<!-- <p>第２・３回プログラミング講師</p> -->
+					<hr>
+					<p>
+						　早稲田大学政治経済学部卒業後、IT x 英語の2つのスキルを身につけるため、約1年半、アメリカに留学。語学を身に付けつつ、ITの本場サンフランシスコで、生徒数200名以上の大規模なプログラミングスクール「General Assembly」を唯一の日本人として卒業。<br>
+						　文系出身のエンジニアとして、初心者の立場に立った丁寧な指導を得意とする。
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="reviews">
+		<h2>オンライン受講者の声</h2>
+		<div class="review-content">
+			<h3 class="">卒業生コメント</h3>
+			<div class="comments-wrap">
+				<div class="comment">
+					<div class="comment-img-wrap"><img src="images/photo-5.jpg" alt="student-pic"></div> 
+					<div class="comment-text">
+						<p class="student-name">三宮さゆり 様</p>
+						<p class="student-job">40代　経営</p>
+						<!-- <strong class="marker">saved test</strong> -->
+						<p class="student-comment">
+							バッチメイトがいるので、自分が気づかない観点などを知れて、学びが深まっていると感じました！
+						</p>
+					</div>
+				</div>
+				<div class="comment">
+					<div class="comment-text">
+						<p class="student-name">井上みすず 様</p>
+						<p class="student-job">40代　公務員</p>
+						<!-- <strong class="marker">saved test</strong> -->
+						<p class="student-comment">
+							プログラミング、楽しくできました。創ることはワクワクしますよね。そのうちJavaScriptもやりたく なると思いました（笑）
+						</p>
+					</div>
+					<div class="comment-img-wrap"><img src="images/photo-6.jpeg" alt="student-pic"></div> 
+				</div>
+				<div class="comment">
+					<div class="comment-img-wrap"><img src="images/photo-7.jpg" alt="student-pic"></div> 
+					<div class="comment-text">
+						<p class="student-name">岩田あゆみ 様</p>
+						<p class="student-job">30代　教員</p>
+						<!-- <strong class="marker">saved test</strong> -->
+						<p class="student-comment">
+							一緒に学べて楽しかったです。出来ることが増えて嬉しい！ 講師の方、受講されたみなさん、ありがとうございました！
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="reviews">
+		<div class="review-content">
+			<h3 class="">開講中のSlackコミュニケーション</h3>
+			<div class="review-content-inner">
+				<div class="tweets-wrap">
+					<div class="grid-item tweet-grid1">
+						<div class="tweet">
+							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">打ち込めることもなく<br>ずっと迷走しながら過ごしていたので<br>3週間で鬼のように成長した気分<br><br>1人じゃ絶対無理だった👩🏻‍💻<br><br>皆さんに出会い、新しい自分にも出会い<br>参加して本当に良かったと思ってる今<br><br>(もう1つLPを作ってる途中に突然キタ)<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/xuRQFvLGvI">pic.twitter.com/xuRQFvLGvI</a></p>&mdash; つぐ🐑 (@yp_17_) <a href="https://twitter.com/yp_17_/status/1266763958209282048?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</div>
+					</div>
+
+					<div class="grid-item tweet-grid2">
+						<div class="tweet">
+							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3週間ぶち込んでフロントエンジニアスキルを習得しました🧑‍💻<br><br>感想としては独学だと同じ到達点まで1年かかったり挫折してただろうなという感じです...!!!<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/LVjoD2iAH7">pic.twitter.com/LVjoD2iAH7</a></p>&mdash; KOH🇬🇪 (@Luck81O) <a href="https://twitter.com/Luck81O/status/1266371862751133698?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</div>
+
+						<div class="tweet">
+							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像のサイズ変わらない事に30分くらい悩んだけどめちゃくちゃ初期の頃に習ったしこの時間だしどうにか自分でやりたくて粘ったらまじでドット一個抜けてて反映されてなくてほんっっとに心の底からぴえんが出た。ぐぎぎ…<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　🥕</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1265277641738731523?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</div>
+
+					</div>
+
+					<div class="grid-item tweet-grid3">
+						<div class="tweet">
+
+							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【旅人エンジニア留学】11日目<br><br>・感想<a href="https://twitter.com/NY_ruisu?ref_src=twsrc%5Etfw">@NY_ruisu</a> さんと<a href="https://twitter.com/Luck81O?ref_src=twsrc%5Etfw">@Luck81O</a> <br>さんへの質問コーナー楽しい😆<br><br>・英語<br>自分が考えてることを英語で<br><br>・プログラミング<br>ドメインとサーバーとるの簡単！<a href="https://twitter.com/NexSeed_Cebu?ref_src=twsrc%5Etfw">@NexSeed_Cebu</a> <a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a><a href="https://twitter.com/hashtag/%E6%97%85%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%83%8D%E3%81%8D%E7%94%9F%E3%81%8D%E3%82%8B?src=hash&amp;ref_src=twsrc%5Etfw">#旅するように働き生きる</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニア</a> <a href="https://twitter.com/hashtag/IT%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#IT留学</a><a href="https://twitter.com/hashtag/nexseed?src=hash&amp;ref_src=twsrc%5Etfw">#nexseed</a></p>&mdash; 鈴木 俊樹 (@08to05shi) <a href="https://twitter.com/08to05shi/status/1264932068242239488?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</div>
+
+						<div class="tweet">
+							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おすすめしないけどやってる人が多いフリーランス的スキルアップ方法は、背伸びをした仕事を取る、提案すること。調べつつやる。<br><br>ただし、各分野で師匠的な人を必ず見つけておくこと。相談できる人がいない状況だと非常に辛い。<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; Kuniyoshi Ichi (@92441K) <a href="https://twitter.com/92441K/status/1263630572183629825?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</div>
+					</div>
+					<div class="grid-item tweet-grid4">
+						<div class="tweet">
+							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">授業には直接は関係ないですが<br>持続化給付金の申請出来ました！🎊✨<br>ずっと内容を勘違いしていて対象でない…と思っていたのですが　<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　の講師陣は<br>フリーランスの大先輩なので相談できて対象だと判明！<br>仲間がいるとこうも心強いとは…😭　感謝感謝です🙇🏻‍♀️🙇🏻‍♀️<br>(結構本気で助かった)</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1261970834123448321?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</div>
+						<div class="tweet">
+							<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">終わってしまった。😢<br>この気持ちを忘れずに。<br>もっと成長したくなりました。<br>私もウェブマスター目指しちゃおう！<br>皆さんに会う時はまた成長しているように！！<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1266403606447570944?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tweets-sp">
+				<div class="tweet">
+					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">打ち込めることもなく<br>ずっと迷走しながら過ごしていたので<br>3週間で鬼のように成長した気分<br><br>1人じゃ絶対無理だった👩🏻‍💻<br><br>皆さんに出会い、新しい自分にも出会い<br>参加して本当に良かったと思ってる今<br><br>(もう1つLPを作ってる途中に突然キタ)<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/xuRQFvLGvI">pic.twitter.com/xuRQFvLGvI</a></p>&mdash; つぐ🐑 (@yp_17_) <a href="https://twitter.com/yp_17_/status/1266763958209282048?ref_src=twsrc%5Etfw">May 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+				<div class="tweet">
+					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3週間ぶち込んでフロントエンジニアスキルを習得しました🧑‍💻<br><br>感想としては独学だと同じ到達点まで1年かかったり挫折してただろうなという感じです...!!!<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a> <a href="https://t.co/LVjoD2iAH7">pic.twitter.com/LVjoD2iAH7</a></p>&mdash; KOH🇬🇪 (@Luck81O) <a href="https://twitter.com/Luck81O/status/1266371862751133698?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+
+				<div class="tweet">
+					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像のサイズ変わらない事に30分くらい悩んだけどめちゃくちゃ初期の頃に習ったしこの時間だしどうにか自分でやりたくて粘ったらまじでドット一個抜けてて反映されてなくてほんっっとに心の底からぴえんが出た。ぐぎぎ…<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　🥕</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1265277641738731523?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+
+			
+				<div class="tweet">
+
+					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【旅人エンジニア留学】11日目<br><br>・感想<a href="https://twitter.com/NY_ruisu?ref_src=twsrc%5Etfw">@NY_ruisu</a> さんと<a href="https://twitter.com/Luck81O?ref_src=twsrc%5Etfw">@Luck81O</a> <br>さんへの質問コーナー楽しい😆<br><br>・英語<br>自分が考えてることを英語で<br><br>・プログラミング<br>ドメインとサーバーとるの簡単！<a href="https://twitter.com/NexSeed_Cebu?ref_src=twsrc%5Etfw">@NexSeed_Cebu</a> <a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a><a href="https://twitter.com/hashtag/%E6%97%85%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%83%8D%E3%81%8D%E7%94%9F%E3%81%8D%E3%82%8B?src=hash&amp;ref_src=twsrc%5Etfw">#旅するように働き生きる</a> <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニア</a> <a href="https://twitter.com/hashtag/IT%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#IT留学</a><a href="https://twitter.com/hashtag/nexseed?src=hash&amp;ref_src=twsrc%5Etfw">#nexseed</a></p>&mdash; 鈴木 俊樹 (@08to05shi) <a href="https://twitter.com/08to05shi/status/1264932068242239488?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+
+				<div class="tweet">
+					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おすすめしないけどやってる人が多いフリーランス的スキルアップ方法は、背伸びをした仕事を取る、提案すること。調べつつやる。<br><br>ただし、各分野で師匠的な人を必ず見つけておくこと。相談できる人がいない状況だと非常に辛い。<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; Kuniyoshi Ichi (@92441K) <a href="https://twitter.com/92441K/status/1263630572183629825?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+			
+				<div class="tweet">
+					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">授業には直接は関係ないですが<br>持続化給付金の申請出来ました！🎊✨<br>ずっと内容を勘違いしていて対象でない…と思っていたのですが　<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a>　の講師陣は<br>フリーランスの大先輩なので相談できて対象だと判明！<br>仲間がいるとこうも心強いとは…😭　感謝感謝です🙇🏻‍♀️🙇🏻‍♀️<br>(結構本気で助かった)</p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1261970834123448321?ref_src=twsrc%5Etfw">May 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+				<div class="tweet">
+					<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">終わってしまった。😢<br>この気持ちを忘れずに。<br>もっと成長したくなりました。<br>私もウェブマスター目指しちゃおう！<br>皆さんに会う時はまた成長しているように！！<a href="https://twitter.com/hashtag/%E6%97%85%E4%BA%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E7%95%99%E5%AD%A6?src=hash&amp;ref_src=twsrc%5Etfw">#旅人エンジニア留学</a></p>&mdash; はるか🥕にんじんエンジニア (@jkjnyn4rang) <a href="https://twitter.com/jkjnyn4rang/status/1266403606447570944?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	
+
+	<section id="webinar">
+		<h2>就職/転職サポート</h2>
+		<h3>~世界で活躍できるサポート~</h3>
+		<div class="webinars-wrap">
+			
+			<div class="webinar-card">
+				
+				<div class="webinar-card-head"></div>
+				<h3>マイナビとの提携</h3>
+				<img class="webinar-icon" src="images/photo-9.jpg" alt="nomad_icon">
+				<ul>
+					<li>KOH</li>
+					<span class="slash"> / </span>
+					<li>７月１日（水）</li>
+					<span class="slash"> / </span>
+					<li>１９時〜２０時</li>
+				</ul>
+				<p>‪
+					大手人材紹介会社のマイナビと提携をしています。<br><br>
+					マイナビ転職プロのキャリアカウンセラーが卒業後の就職先紹介やキャリア・転職相談、履歴書の添削等のサポートを行い、応募企業への就職・転職活動へ導きます。
+				‬</p>
+				<div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div>
+			</div>
+	
+			<div class="webinar-card">
+			
+				<div class="webinar-card-head"></div>
+				<h3>卒業生の実績ある転職一覧</h3>
+				<img class="webinar-icon" src="images/photo-10.JPG" alt="nomad_icon">
+				<ul>
+					<li>前田塁</li>
+					<span class="slash"> / </span>
+					<li>７月２日（木）</li>
+					<span class="slash"> / </span>
+					<li>１９時〜２０時</li>
+				</ul>
+				<p>
+					これまで7年間に2,000名以上の卒業生を輩出してきました。卒業後は国内の大手企業だけなく、外資系企業へエンジニアとして就職している方や、起業したりフリーランスとして活躍されている方が多数います。 <br><br>
+					卒業生の転職/就職企業例<br><br>
+					Yahoo!、楽天、ソフトバンク、NTTデータ、Accenture、Twitter、リクルートライフスタイル、リクルート住まいカンパニー、リクルートキャリア、サイバーエージェント、サイバー・バズ、クラウドワークス、メンバーズ 
+				</p>
+				<div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div>
+			</div>
+		
+			<div class="webinar-card">
+				<div class="webinar-card-head"></div>
+				<h3>世界16か国で活躍される卒業生</h3>
+				<img class="webinar-icon" src="images/photo-11.JPG" alt="nomad_icon">
+				<ul>
+					<li>栢森威瑠</li>
+					<span class="slash"> / </span>
+					<li>７月３日（金）</li>
+					<span class="slash"> / </span>
+					<li>１９時〜２０時</li>
+				</ul>
+				<p>
+					卒業生は日本だけでなく、世界中で活躍しています。<br><br>
+					<img src="images/flags-1.png" width="100%" /> <br>
+					日本　フィリピン　中国　アメリカ　カナダ　イギリス　オーストラリア　ニュージーランドインド　台湾　タイ　ベトナム　カンボジア　ミャンマー　コロンビア　ペルー
+				</p>
+				<div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div>
+			</div>
+			
+		</div>
+		<div class="absent">
+			<p>
+				<!-- <span class="marker">当日の参加が難しいという方も</span> -->
+				NexSeedでは、LINEでお問い合わせを承っております。<br>
+				カリキュラムや料金、申込方法について気になることがございましたら、下のボタンよりお友達追加お願いいたします。
+			</p>
+			<!-- <div class="absent-btn">
+				<a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">ウェビナー動画の配布を希望する</a>
+			</div> -->
+			<div class="conversion_btn animated">
+				<p>
+					<a class="line-btn" href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">
+						詳細を <span class="line-text">LINE</span>で問い合わせ
+					</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section id="rec-to">
+		<h2>こんな方におすすめ</h2>
+		<div class="rec-wrap">
+			<div class="rec-item">
+				<img src="images/photo-12.jpg" alt="recommend">
+				<div class="rec-item-bottom">
+					<h3><em>1.</em>仕事をしながらプログラミング学習を両立したい人</h3>
+					<p>
+						仕事は続けたい、両立しながらプログラミング学習がしたい！という人に向けたコースです。週2日間ならプログラミングと仕事の両立は必ずできます。
+					</p>
+				</div>
+			</div>
+			<div class="rec-item">
+				<img src="images/photo-13.jpg" alt="recommend">
+				<div class="rec-item-bottom">
+					<h3><em>2.</em>自習時間をしっかり取りたい人</h3>
+					<p>
+						自分のスピードで自習時間を取りながらオンライン学習を進めたい方にはピッタリのコースです。特に未経験で授業のスピードについていけるか不安な方、もちろん自主学習の時間がたっぷりとれるため、安心して受講していただけます。プログラミングの勉強をしていたけれど挫折した経験がある方も、リベンジしませんか？
+					</p>
+				</div>
+			</div>
+			<div class="rec-item">
+				<img src="images/photo-14.JPG" alt="recommend">
+				<div class="rec-item-bottom">
+					<h3><em>3.</em>マーケティング・ディレクションをしながらエンジニアにもなりたい人</h3>
+					<p>
+						サイトやサービス、アプリを作り出す仕事はとてもクリエイティブです。マーケティング・ディレクション技術の他にエンジニアとしての技術があれば、自分が作りたい、ワクワクするものを自分の企画から作ることができます。
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
+	
+
+	<section id="price" class="main style3 secondary">
+		<div class="content">
+			<header>
+				<h2>受講までの流れ</h2>
+				<h3>Flow of Application</h3>
+			</header>
+			<div class="application-flow">
+				<div class="stepbox">
+					<div class="stepbox-inner">
+						<div class="stepbox-head head1">
+							<p>STEP1</p>
+						</div>
+						<div class="stepbox-body">
+							<h3>▼ お問い合わせ＆カウンセリング</h3>
+							<p>
+								希望コース、カリキュラム、期間、料金、何を学んだらいいかわからないなどといったご相談をお気軽にお問い合わせください。アドバイス経験豊富なアドバイザーよりお返事します。受講者様それぞれのお悩みやレベル、目的に合わせたカリキュラムをご用意しています。2,000人もの卒業生を世界中に輩出している実績から、 最適なプランを提案します。月額/分割お支払いのご相談もしていただけます。
+							</p>
+							
+							<div class="app-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">LINE@で話を聞いてみる</a></div>
+							
+						</div>
+					</div>
+				</div>
+				<div class="triangle-down"></div>	
+				<div class="stepbox">
+					<div class="stepbox-inner">
+						<div class="stepbox-head head2">
+							<p>STEP2</p>
+						</div>
+						<div class="stepbox-body">
+							<h3>▼ お申し込み</h3>
+							<p>
+								具体的な留学スケジュールが決まったら、日本人アドバイザーの案内に従ってお申し込みを進めます。お申し込みの際も、随時ご質問を受け付けておりますので、ご安心ください。
+							</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="triangle-down"></div>
+				
+				<div class="stepbox">
+					<div class="stepbox-inner">
+						<div class="stepbox-head head3">
+							<p>STEP3</p>
+						</div>
+						<div class="stepbox-body">
+							<h3>▼ お支払い、事前学習・事前準備</h3>
+							<p>
+								日本にNexSeedのグループ会社があるため、国内の銀行振り込みが可能です。慣れない海外送金の必要はございません。留学手続きでのご不明点についてのサポート体制も整っています。
+							</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="triangle-down"></div>
+				<div class="stepbox">
+					<div class="stepbox-inner">
+						<div class="stepbox-head head4">
+							<p>STEP4</p>
+						</div>
+						<div class="stepbox-body">
+							<h3>▼ 受講スタート</h3>
+							<p>
+								オンライン授業開始！ご自宅でPCからクラスに参加します。 ご自身の目標を達成するため、仲間と一緒に成長していきましょう！
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		</div>
+	</section>
+
+<section id="faq" class="main style3 secondary">
+	<div class="content">
+		<header>
+			<h2>よくあるご質問</h2>
+			<h3>FAQ</h3>
+		</header>
+		<div class="accbox">
+			<!--ラベル1-->
+			<label for="label1">授業料以外にお金はかかりますか？</label>
+			<input type="checkbox" id="label1" class="cssacc" />
+			<div class="accshow">
+			<!--ここに隠す中身-->
+			<p>
+				いいえ、授業料以外に費用は一切かかりません。<br>
+				旅人エンジニアコースをご受講のお客様には、NexSeedでのセブ島英語留学を特別価格でご案内しております。そちらをご利用いただく際には、別途費用がかかりますので、詳細は<a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=BwTzNE">お問い合わせ</a>ください。
+			</p>
+			</div>
+	    	<!--//ラベル1-->
+			<!--ラベル2-->
+			<label for="label2">言語は何を学べますか？</label>
+			<input type="checkbox" id="label2" class="cssacc" />
+			<div class="accshow">
+			<!--ここに隠す中身-->
+			<p>
+				主に、WEBサイトの見た目を作るHTML、CSS、JavaScriptを学びます。言語とは別ですが、WordPressという世界でもっとも使用されているWebメディア、サイト作成システムの使用方法についても学びます。
+			</p>
+			</div>
+			<!--//ラベル2-->
+			<!--ラベル3-->
+			<label for="label3">直接話を聞くことはできますか？</label>
+			<input type="checkbox" id="label3" class="cssacc" />
+			<div class="accshow">
+			<!--ここに隠す中身-->
+			<p>
+				はい！<a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=BwTzNE">こちらの公式LINE</a>に登録していただき、日程調整後、スタッフと直接電話にてご相談いただけます。
+			</p>
+			</div>
+			<!--//ラベル3-->
+
+		  	<!--ラベル4-->
+		    <label for="label4">受講に必要なパソコンのスペックはどのくらいですか？ </label>
+		    <input type="checkbox" id="label4" class="cssacc" />
+		    <div class="accshow">
+		      <!--ここに隠す中身-->
+		      <p>
+			  	推奨スペックは以下の通りです。メモリ：8GB、ストレージ：256GB以上画面サイズ：13インチ以上、モデル：2012年以降モデルこれから購入される方にはMacBook ProまたはMacBook Airを推奨しています。
+		      </p>
+		    </div>
+		   	<!--//ラベル4-->
+
+		  	<!--ラベル5-->
+		    <label for="label5">事前課題はありますか？ </label>
+		    <input type="checkbox" id="label5" class="cssacc" />
+		    <div class="accshow">
+		      <!--ここに隠す中身-->
+		      <p>
+			  	オンラインでの事前課題をご用意しております。
+		      </p>
+		    </div>
+		  	<!--//ラベル5-->
+
+		  	<!--ラベル10-->
+		    <label for="label7">パソコン初心者ですが、大丈夫ですか？</label>
+		    <input type="checkbox" id="label7" class="cssacc" />
+		    <div class="accshow">
+		      <!--ここに隠す中身-->
+		      <p>
+		        はい、全く問題ございません。これまでのご参加者のうち80％以上はプログラミング初心者の方です。ただ事前にPCを準備していただく必要があるので、早めにNexSeedの事前学習をスタートすることをおすすめしています。
+		      </p>
+		    </div>
+		  	<!--//ラベル10-->
+
+		  	<!--ラベル11-->
+		    <label for="label8">分割払いはできますか？ </label>
+		    <input type="checkbox" id="label8" class="cssacc" />
+		    <div class="accshow">
+		      <!--ここに隠す中身-->
+		      <p>
+			  	「夜間じっくりコース」のみ、分割払いが可能です。
+		      </p>
+		    </div>
+		  	<!--//ラベル11-->
+
+		  <!--ラベル12-->
+		    <!-- <label for="label9">英語全然話せないんですが、大丈夫ですか？</label>
+		    <input type="checkbox" id="label9" class="cssacc" />
+		    <div class="accshow"> -->
+		      <!--ここに隠す中身-->
+		      <!-- <p>
+		        もちろんです。スピーキングフォーカスの授業が強みのNexSeedでは、生徒様一人ひとりのレベルに合わせたレッスンをご提供しております。そのため、初心者から上級者までご満足頂ける内容になっています。
+		      </p>
+		    </div> -->
+		  <!--//ラベル12-->
+
+		  <!--ラベル13-->
+		    <label for="label10">友達同士・カップルでも参加できますか？</label>
+		    <input type="checkbox" id="label10" class="cssacc" />
+		    <div class="accshow">
+		      <!--ここに隠す中身-->
+		      <p>
+		        はい、友達同士、カップル同士で参加される方もいらっしゃいます！モチベーションの維持にも繋がりますので、おすすめです。
+		      </p>
+		    </div>
+		  <!--//ラベル13-->
+
+		</div>
+	</div>
+</section>
+
+	<!-- Contact -->
+	<section id="contact" class="main style3 primary">
+		<div class="content">
+			<header>
+				<h2>お問い合わせ</h2>
+				<p>資料請求はこちらから。どのような相談でも構いません。お気軽にご相談ください。</p>
+			</header>
+			<div class="contact-body">
+				<div class="contact-body-pc">
+					<p>スマートフォンでご覧ください</p>
+					<img src="images/qr-code-2.png" alt="lineat_qrcode">
+					<p>LINEアプリを起動して、QRコードを読み取ってください。</p>
+				</div>
+				<div class="conversion_btn animated">
+					<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Footer -->
+
+	<footer id="footer">
+		<!-- Icons -->
+			<ul class="icons">
+				<li><a href="https://twitter.com/NexSeed_Cebu" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://www.facebook.com/NexSeed" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="https://www.instagram.com/nexseed_net/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+			</ul>
+			<ul class="footer-right">
+				<li>
+					<a href="https://nexseed.net/">会社情報</a></li>
+				<li>
+					<a href="https://nexseed.net/inquiry/privacy_policy.pdf">プライバシーポリシー</a>
+				</li>
+			</ul>
+
+	</footer>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<!-- <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script> -->
+	<!-- <script src="assets/js/jquery.scrollex.min.js"></script> -->
+	<!-- <script src="assets/js/browser.min.js"></script> -->
+	<!-- <script src="assets/js/breakpoints.min.js"></script> -->
+	<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

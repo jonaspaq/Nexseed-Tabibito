@@ -1,0 +1,38 @@
+<header id="header">
+    <h1><img src="images/logo.png"></h1>
+    <div id="nav-drawer">
+        <input id="nav-input" type="checkbox" class="nav-unshown">
+        <label id="nav-open" for="nav-input"><span></span></label>
+        <label class="nav-unshown" id="nav-close" for="nav-input"></label>
+        <div id="nav-content" class="nav-content" onclick="test()">
+            <li><a href="#features">旅人エンジニア留学の3つの特徴</a></li>
+            <li><a href="#price">概要</a></li>
+            <li><a href="#curriculum">カリキュラム</a></li>
+            <li><a href="#teachers">講師紹介</a></li>
+            <li><a href="#reviews">卒業生の声</a></li>
+            <li><a href="#webinar">無料ウェビナー</a></li>
+            <li><a href="#contact">お問い合わせ</a></li>
+        </div>
+
+
+
+        <!-- <h1><img src="images/logo.png" width="50%"></h1> -->
+        <nav class="nav-content">
+            <ul class="nav-items-desktop">
+                <li><a href="#features">夜間じっくりコースの特徴</a></li>
+                <li><a href="#price">概要</a></li>
+                <li><a href="#curriculum">カリキュラム</a></li>
+                <li><a href="#teachers">講師紹介</a></li>
+                <li><a href="#reviews">受講者の声</a></li>
+                <li><a href="#webinar">就職/転職サポート</a></li>
+                <li><a href="#contact">お問い合わせ</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <script>
+        function test() {
+            document.getElementById("nav-input").checked = false;
+        }
+    </script>
+</header>

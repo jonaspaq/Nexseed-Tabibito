@@ -2799,7 +2799,8 @@ body.is-touch .main {
     
     /* background: url("images/overlay.png"), url("../../images/top_ruisu3.jpg"); */
     /* background-image: linear-gradient( to right, rgba(255,255,255,0),  #fff ), url("../../images/top_ruisu3.jpg"); */
-    background-image: linear-gradient( to right, rgba(0, 0, 0, 0.31), rgba(216, 216, 216, 0.11) ), url(../../images/cover-top-1.JPG);
+    /* background-image: linear-gradient( to right, rgba(0, 0, 0, 0.31), rgba(216, 216, 216, 0.11) ), url(../../images/cover-top-1.JPG); */
+    background-image: linear-gradient( to right, rgba(0, 0, 0, 0.31), rgba(216, 216, 216, 0.11) ), url(../../images/char-overlay-1.jpg);
     /* background: grey; */
     /* background: rgba(255,255,255,0.7); */
     

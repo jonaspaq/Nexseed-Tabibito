@@ -99,9 +99,14 @@
 
 	<!-- Intro -->
 	<section id="intro" class="main style1 dark fullscreen">
-		<div class="intro-wrap">			
+		<p>
+		未経験からITスキルを身に付けて <br>
+		世界が求めるエンジニアになろう。<br>
+		人生を変える24週間『Seed Tech Online 夜間じっくりコース』
+		</p>
+		<!-- <div class="intro-wrap">			
 			<img src="images/new-top-4.png" alt="旅人エンジニア留學" class="intro-img-logo">
-		</div>
+		</div> -->
 		<a href="#work" class="button style2 down anchored hidden">Next</a>
 	</section>
 	

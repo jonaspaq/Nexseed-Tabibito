@@ -116,10 +116,10 @@
 				働きながらプログラミングと英語をオンラインで学び、<br> グローバルに活躍できるエンジニアになろう。
 			</p>
 
-			<div class="conversion_btn">
-				<p><a href="#curriculum" class="curriculum-btn">詳しいカリキュラムはこちら</a></p>
+			<div class="conversion_btn animated">
+				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh
+				">詳細を<span class="line-text">LINE</span>で問い合わせ</a></p>
 			</div>
-
 		</div>
 	</section>
 
@@ -492,59 +492,6 @@
 			</div>
 		</div>
 	</section>
-
-	<section id="reviews">
-		<h2>オンライン受講者の声</h2>
-		<div class="review-content">
-			<h3 class="">卒業生コメント</h3>
-			<div class="comments-wrap">
-				<div class="comment">
-					<div class="comment-img-wrap"><img src="images/photo-5.jpg" alt="student-pic"></div> 
-					<div class="comment-text">
-						<p class="student-name">三宮さゆり 様</p>
-						<p class="student-job">40代　経営</p>
-						<!-- <strong class="marker">saved test</strong> -->
-						<p class="student-comment">
-							バッチメイトがいるので、自分が気づかない観点などを知れて、学びが深まっていると感じました！
-						</p>
-					</div>
-				</div>
-				<div class="comment">
-					<div class="comment-text">
-						<p class="student-name">井上みすず 様</p>
-						<p class="student-job">40代　公務員</p>
-						<!-- <strong class="marker">saved test</strong> -->
-						<p class="student-comment">
-							プログラミング、楽しくできました。創ることはワクワクしますよね。そのうちJavaScriptもやりたく なると思いました（笑）
-						</p>
-					</div>
-					<div class="comment-img-wrap"><img src="images/photo-6.jpeg" alt="student-pic"></div> 
-				</div>
-				<div class="comment">
-					<div class="comment-img-wrap"><img src="images/photo-7.jpg" alt="student-pic"></div> 
-					<div class="comment-text">
-						<p class="student-name">岩田あゆみ 様</p>
-						<p class="student-job">30代　教員</p>
-						<!-- <strong class="marker">saved test</strong> -->
-						<p class="student-comment">
-							一緒に学べて楽しかったです。出来ることが増えて嬉しい！ 講師の方、受講されたみなさん、ありがとうございました！
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section id="reviews">
-		<div class="review-content">
-			<h3 class="">開講中の授業風景とSlackコミュニケーション</h3>
-			<div class="slack-review-box">
-				<img src="images/photo-8.png" class="slack-review-1" alt="slack-review" width="60%" />
-				<img src="images/photo-8.1.png" class="slack-review-2" alt="slack-review" width="60%" />
-			</div>
-		</div>
-	</section>
-
-	
 
 	<section id="webinar">
 		<h2>就職/転職サポート</h2>

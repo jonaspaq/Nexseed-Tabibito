@@ -2879,7 +2879,7 @@ body.is-touch .main {
 #features {
     background: white;
     width: 100%;
-    padding: 140px 0 200px;
+    padding: 100px 0 100px;
     /* display: flex;
     justify-content: space-between; */
 
@@ -4076,6 +4076,7 @@ td {
   padding: 0 30px;
 }
 .stepbox {
+  width: 100%;
   /* border: 2px solid black; */
   text-align: left;
 }
@@ -4799,4 +4800,10 @@ label .name {
         position: static;
         width: 100%;
     }
+}
+
+.graph-c-2-img {
+    box-shadow: 0 0 7px gray;
+    width: 100%;
+    margin-bottom: 25px;
 }

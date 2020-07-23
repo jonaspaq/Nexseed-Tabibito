@@ -110,16 +110,62 @@
 	<section id="work" class="main style3 primary">
 		<div class="content">
 			<header>
-				<h2>Seed Tech Onlineの<span style="color: red;">夜間じっくりコース</span>が<br>スタートしました</h2>
+				<h2>オンライン留学 Seed Tech Online<br>
+				<span style="color: red;">"夜間じっくりコース"</span>が開講！</h2>
 			</header>
 			<p>				
-				働きながらプログラミングと英語をオンラインで学び、<br> グローバルに活躍できるエンジニアになろう。
+				働きながらプログラミングをオンラインで学び、グローバルに活躍できるエンジニアになろう。<br>
+				NexSeedでは、LINEでお問い合わせを承っております。<br>
+				カリキュラムや料金、申込方法について気になることがございましたら、下のボタンよりお友達追加お願いいたします。
 			</p>
 
-			<div class="conversion_btn">
-				<p><a href="#curriculum" class="curriculum-btn">詳しいカリキュラムはこちら</a></p>
+			<div class="conversion_btn animated">
+				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh
+				">詳細を<span class="line-text">LINE</span>で問い合わせ</a></p>
 			</div>
+		</div>
+	</section>
 
+	<section id="rec-to">
+		<h2>こんな方におすすめ</h2>
+		<div class="rec-wrap">
+			<div class="rec-item">
+				<div class="recommend-icon-box">
+					<img class="recommend-icon" src="images/photo-12.jpg" alt="recommend">
+				</div>
+				<div class="rec-item-bottom">
+					<h3><em>1.</em>仕事をしながらプログラミング学習を両立したい人</h3>
+					<p>
+						仕事は続けたい、両立しながらプログラミング学習がしたい！という人に向けたコースです。<br>
+						週2日間ならプログラミングと仕事の両立は必ずできます。
+					</p>
+				</div>
+			</div>
+			<div class="rec-item">
+				<div class="recommend-icon-box">
+					<img class="recommend-icon" src="images/photo-13.jpg" alt="recommend">
+				</div>
+				<div class="rec-item-bottom">
+					<h3><em>2.</em>自習時間をしっかり取りたい人</h3>
+					<p>
+						自分のスピードで自習時間を取りながらオンライン学習を進めたい方にはピッタリのコースです。<br>
+						特に未経験で授業のスピードについていけるか不安な方、もちろん自主学習の時間がたっぷりとれるため、安心して受講していただけます。<br>
+						プログラミングの勉強をしていたけれど挫折した経験がある方も、リベンジしませんか？
+					</p>
+				</div>
+			</div>
+			<div class="rec-item">
+				<div class="recommend-icon-box">
+					<img class="recommend-icon" src="images/photo-14.jpg" alt="recommend">
+				</div>
+				<div class="rec-item-bottom">
+					<h3><em>3.</em>マーケティング・ディレクションをしながらエンジニアにもなりたい人</h3>
+					<p>
+						サイトやサービス、アプリを作り出す仕事はとてもクリエイティブです。<br>
+						マーケティング・ディレクション技術の他にエンジニアとしての技術があれば、自分が作りたい、ワクワクするものを自分の企画から作ることができます。
+					</p>
+				</div>
+			</div>
 		</div>
 	</section>
 
@@ -134,19 +180,17 @@
 					
 					<h3 class="feature-card-title"><span class="feature-num">1</span>NexSeed独自オンライン学習マネジメントシステムの活用</h3>
 					<p class="feature-card-description des-one">
-						本コースのゴールは仕事をしながら（学校に通いながら）、夜の時間を使って半年かけて、エンジニアに転職するためのスキルを身につけることです。<br>
-						<br>
-						仕事をしながらでも学習モチベーションを保つため、2,000名超の卒業生のデータをもとにNexSeedが独自に開発した学習マネジメントシステムを用いて、生徒ごとの学習時間やカリキュラム進捗率を可視化します。<br>
-						進捗が可視化されることで、生徒同士で学習意欲を刺激しあい、また、学習時間が足りていない場合には学習を促すようサポートします。<br>
+						授業回数は週2回夜の時間での講義と、自習時間も含め24週間（半年間）で400時間以上の学習時間が確保できます。<br>
+						「夜間じっくりコース」では仕事や学業との両立を行いながら、半年間でエンジニアとして就職するレベルのスキルを身につけます。<br><br>
+						週2回、夜の時間での講義になるので、お忙しい方や昼間にお仕事や学校がある方は帰宅後に受講することで、半年間で自分のライフスタイルを崩さずにエンジニアを目指すことが出来ます！
 					</p>
 				</div>
 				<div class="feature-card">
 					
 					<h3 class="feature-card-title"><span class="feature-num">2</span>チーム開発で実務に近い経験が得られる</h3>
 					<p class="feature-card-description des-two">
-						実際の開発現場では、チームで業務をこなすことが一般的であり、1人でのサービス開発ではプログラミング以外の現場で必要となる知識・スキルが得られません。<br>
-						そのため、Seed Tech Onlineでは学習のゴールとしてオリジナルWebサービスをチームで開発します。<br><br>
-						企画～リリースまでの全体工程や、現場でも使用されている最新の開発手法を学べるよう構成されたカリキュラムを使い、講師サポートの元開発を進めます。 <br>
+						2,000名超の卒業生のデータをもとにNexSeedが独自に開発した学習マネジメントシステム(LMS)を用いて、生徒ごとの学習時間やカリキュラム進捗率を可視化します。<br><br>
+						進捗が可視化されることで、生徒同士で学習意欲を刺激しあい、また、学習時間が足りていない場合には学習を促すようサポートします。
 					</p>
 				</div>
 				<div class="feature-card">
@@ -165,49 +209,7 @@
 			
 		</div>
 	</section>
-<!-- 	
-	<section id="one" class="main style2 right dark fullscreen">
-		<div class="content box style2">
-			<header>
-				<h2>リモートワークで月5万円を稼げるようになる</h2>
-			</header>
-			<p>
-				旅人エンジニア留学の成功は3週間で月に5万円を自分の力で稼げる技術を身につけること。<br>自分だけの自己紹介ページとWordPressサイトを学びながら立ち上げて、実際に仕事を見つける動きをするところまで期間内で進めます。実践形式にこだわります。<br><br>カリキュラムには英語力を伸ばすためのマンツーマン授業も含まれます。エンジニアとしての仕事は日本国内に限らず、世界各地にありますからシンガポールチームとの仕事が終わったら、次はインドからの仕事へとグローバルに働く旅人エンジニアを目指しましょう。<br><br>NexSeedのエンジニア留学は2020年時点で約2000名以上の卒業生数を誇り、就職率は92%、起業数18社以上と、圧倒的な成果を残しています。
-			</p>
-		</div>
-		<a href="#two" class="button style2 down anchored">Next</a>
-	</section>
 
-	
-	<section id="two" class="main style2 left dark fullscreen">
-		<div class="content box style2">
-			<header>
-				<h2>NexSeed専任プログラミング講師の手厚いサポート</h2>
-			</header>
-			<p>
-				旅人エンジニア授業では、少人数に対して、専任のプログラミング講師がしっかりサポートします。<br>
-				Seed Tech Schoolではこれまで2000人以上の卒業生を送り出してきました。その経験を生かした挫折しない仕組みで、みなさんが目標に辿り着けるよう全力でサポートします。<br>
-				授業の時間外にも、Slackというコミュニケーションツール上で質問ができますので、自習する際に答えがわからず、何時間も一人で悩むという心配も無用です。
-			</p>
-		</div>
-		<a href="#three" class="button style2 down anchored">Next</a>
-	</section>
-
-	
-	<section id="three" class="main style2 right dark fullscreen">
-		<div class="content box style2">
-			<header>
-				<h2>旅人講師と共に、将来を設計する</h2>
-			</header>
-			<p>
-				本コースでは、2名の特別講師を迎えます。1人目は、「<a href="https://twitter.com/ano_georgia">あの会社</a>」代表で店舗経営、美容師、フロントエンジニア、マーケター、編集者と幅広い分野で活躍するKOH氏。2人目は<a href="http://inc.tabippo.net/">株式会社TABIPPO</a>より、TABIPPO.NET編集長の前田塁氏です。<br>
-				前田編集長・KOH氏自身も、世界中を旅しながらフリーランスとしても働いている、いわば卒業後のロールモデルです。<br><br>旅人エンジニアとして成功するためには、少数派として自分を律しながら、戦略と計画を持って人生をコントロールしていく必要があります。<br><br>これからどんな人生を過ごしていくのかを一緒に考えてみませんか。様々なワークショップやコミュニケーションの機会をご用意してお待ちしてます。
-
-			</p>
-		</div>
-	</section> -->
-
-<!-- 間延び -->
 
 	<!-- inq -->
 	<section id="inq" class="main style3 secondary">
@@ -220,141 +222,6 @@
 			<div class="conversion_btn animated">
 				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh
 				">詳細を<span class="line-text">LINE</span>で問い合わせ</a></p>
-			</div>
-		</div>
-	</section>
-
-	<section id="price" class="main style3 primary">
-		<div class="content">
-			<header>
-				<h2>概要</h2>
-				<h3>Overview</h3>
-				<p class="section-description">
-					お仕事をしながら（学校に通いながら）、夜の時間を使って半年かけて、エンジニアに転職するためのスキルを身につけるコースをご用意しています。<br>
-					週に2回のプログラミングの授業を受講、週に3回自習時間を取り学習していただく、プログラミングを学習したけど時間がないというお悩みを解消できるスケジュールになっています。</p>
-			</header>
-
-			<img src="images/graph-c-2.png" width="100%" style="box-shadow: 0 0 7px gray" />
-			<!-- 料金表 -->
-			<!--  -->
-			<table class="table-a table-d table-d-a">
-				<tbody>
-					<tr>
-						<th rowspan="1">開催時期</th>
-						<td colspan="3">2020年8月10日〜2021年2月5日</td>
-					</tr>
-					<tr>
-						<th rowspan="1">メイン講師</th>
-						<td colspan="3">笹野 駿人（ササノハヤト）</td>
-					</tr>
-					<tr>
-						<th rowspan="1">参加人数※</th>
-						<td colspan="3">12名</td>
-					</tr>
-					<tr>
-						<th rowspan="1">曜日・時間</th>
-						<td colspan="3">
-						曜日：火&金<br>
-						時間：19～21時<br>
-						授業の曜日は開講日によって異なります。
-						</td>
-					</tr>
-					<tr>
-						<th rowspan="1">提供授業</th>
-						<td colspan="3">プログラミング講義2コマ/週×24週間</td>
-					</tr>
-					<tr>
-						<th rowspan="1">料金</th>
-						<td colspan="3">
-						¥598,000 <br>
-						早割 7/10まで ¥498,000<br>
-						※夜間じっくりコースには別途消費税が掛かります。
-						</td>
-					</tr>
-					<tr>
-						<th rowspan="1">入学金</th>
-						<td colspan="3">¥20,000 (1年以内に別コースで再入学される場合は入学金が不要です。 )</td>
-					</tr>
-					<tr>
-						<th rowspan="1">休校日</th>
-						<td colspan="3">7/10、9/3、9/28、11/2、11/30、12/8、12/24、12/25、12/28～31</td>
-					</tr>
-					<tr>
-						<th rowspan="1">1日のスケジュール</th>
-						<td colspan="3"><img src="images/graph-b-1.png"> </td>
-					</tr>
-				</tbody>
-			</table>
-			<table class="table-b table-d table-d-b hide-element">
-				<tbody>
-					<tr>
-						<th rowspan="1">開催時期</th>
-						<td colspan="3">2020年8月31日〜2020年9月25日</td>
-					</tr>
-					<tr>
-						<th rowspan="1">旅人メイン講師</th>
-						<td colspan="3">前田塁</td>
-					</tr>
-					<tr>
-						<th rowspan="1">メンター</th>
-						<td colspan="3">KOH</td>
-					</tr>
-					<tr>
-						<th rowspan="1">プログラミング講師</th>
-						<td colspan="3">栢森威瑠（カヤモリタケル）</td>
-					</tr>
-					<tr>
-						<th rowspan="1">参加人数<sup>※</sup></th>
-						<td colspan="2">12名</td>
-					</tr>
-					<tr>
-						<th rowspan="1">提供授業</th>
-						<td colspan="2">
-							プログラミング講義週6コマ/週<br>
-							旅人講義4コマ/週<br>
-							英語授業5コマ/週</td>
-					</tr>
-					<tr>
-						<th rowspan="3">授業スケジュール</th>
-						<td>プログラミング</td>
-						<td>月・水・金　19:00-21:00</td>
-					</tr>
-					<tr>
-						<td>旅人講義</td>
-						<td>火・木　19:00-21:00</td>
-					</tr>
-					<tr>
-						<td>英語</td>
-						<td>月〜金　18:00-19:00</td>
-					</tr>
-					<tr>
-						<th rowspan="1">料金</th>
-						<!-- <td>英語授業あり</td> -->
-						<td colspan="2">
-							¥218,000<br>
-							<span class="discount">7月31日までのお申し込みで2万円割引</span>
-						</td>
-						
-					</tr>
-					<tr>
-						<th rowspan="1">お申し込み締切</th>
-						<td colspan="2">2020年8月21日</td>
-					</tr>
-					<tr>
-						<th rowspan="1" class="last-th">特典</th>
-						<td colspan="2">
-							ネクシードへの英語留学2週間を特別価格でご案内<br>
-							1人部屋：<del>¥144,000</del> → <span class="price-bolder">¥98,000</span><br>
-							<span class="note">※上記に加えて、渡航費用、出国費用、VISA費用、生活費用が必要です。</span>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			
-			<span class="classmates-note" style="font-size:9pt;">※お問い合わせ状況によって参加人数を増枠する可能性があります。</span><br>
-			<span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br>
-			<div class="conversion_btn animated">
-				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
 			</div>
 		</div>
 	</section>
@@ -434,118 +301,6 @@
 		</div>
 	</section>
 
-
-
-	<section id="teachers" class="main style4 primary">
-
-		<div class="content-location">
-			<header>
-				<h2>講師紹介</h2>
-				<h3>Teacher</h3>
-				<p class="section-description">
-					プログラミング講師は、日本人の現役エンジニア。<br>
-					みなさんがつまずくポイントを熟知したプロフェッショナルです。困ったら、いつでも相談ができる頼れる存在です。
-				</p>
-			</header>
-			<div class="flexwrap">
-				<div class="imgbox-office">
-					<img src="images/shinya-1.jpg" alt="shinya">
-				</div>
-				<div class="textbox-office">
-					<h3>Shinya Hirai</h3>
-					<!-- <p>第３回 旅人メイン講師  /  第２回 メンター</p> -->
-					<hr>
-					<p>
-					　Seed Tech School の現役エンジニア。大学時代にプログラミングに魅了され、若くしてフリーランス・エンジニアとして独立。IT留学の立ち上げを牽引し、現在は同社のエンジニア・カリキュラム開発責任者 / マネージャーとして活躍。
-					</p>
-				</div>
-			</div>
-
-			<div class="flexwrap right">
-				<div class="imgbox-office">
-					<img src="images/hayato-1.jpg" alt="hayato">
-				</div>
-				<div class="textbox-office right">
-					<h3>Hayato Sasano</h3>
-					<!-- <p>第２回 旅人メイン講師  /  第３回 メンター</p> -->
-					<hr>
-					<p>
-						前職は外航船員。エンジニアになるためにスクールに通い途中挫折しかけるが、当時のメンターに励まされ、船上で半年以上インターネットもない環境で生活できる忍耐力で、毎日12時間以上勉強。<br>
-						自分のように苦労してる人を今度は自分が助けられるようになりたいと考え、講師として参画。
-					</p>
-				</div>
-			</div>
-
-			<div class="flexwrap">
-				<div class="imgbox-office">
-					<img src="images/takeru_kayamori.jpg" alt="takerukayamori">
-				</div>
-				<div class="textbox-office">
-					<h3>栢森 威瑠（かやもり たける）</h3>
-					<!-- <p>第２・３回プログラミング講師</p> -->
-					<hr>
-					<p>
-						　早稲田大学政治経済学部卒業後、IT x 英語の2つのスキルを身につけるため、約1年半、アメリカに留学。語学を身に付けつつ、ITの本場サンフランシスコで、生徒数200名以上の大規模なプログラミングスクール「General Assembly」を唯一の日本人として卒業。<br>
-						　文系出身のエンジニアとして、初心者の立場に立った丁寧な指導を得意とする。
-					</p>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section id="reviews">
-		<h2>オンライン受講者の声</h2>
-		<div class="review-content">
-			<h3 class="">卒業生コメント</h3>
-			<div class="comments-wrap">
-				<div class="comment">
-					<div class="comment-img-wrap"><img src="images/photo-5.jpg" alt="student-pic"></div> 
-					<div class="comment-text">
-						<p class="student-name">三宮さゆり 様</p>
-						<p class="student-job">40代　経営</p>
-						<!-- <strong class="marker">saved test</strong> -->
-						<p class="student-comment">
-							バッチメイトがいるので、自分が気づかない観点などを知れて、学びが深まっていると感じました！
-						</p>
-					</div>
-				</div>
-				<div class="comment">
-					<div class="comment-text">
-						<p class="student-name">井上みすず 様</p>
-						<p class="student-job">40代　公務員</p>
-						<!-- <strong class="marker">saved test</strong> -->
-						<p class="student-comment">
-							プログラミング、楽しくできました。創ることはワクワクしますよね。そのうちJavaScriptもやりたく なると思いました（笑）
-						</p>
-					</div>
-					<div class="comment-img-wrap"><img src="images/photo-6.jpeg" alt="student-pic"></div> 
-				</div>
-				<div class="comment">
-					<div class="comment-img-wrap"><img src="images/photo-7.jpg" alt="student-pic"></div> 
-					<div class="comment-text">
-						<p class="student-name">岩田あゆみ 様</p>
-						<p class="student-job">30代　教員</p>
-						<!-- <strong class="marker">saved test</strong> -->
-						<p class="student-comment">
-							一緒に学べて楽しかったです。出来ることが増えて嬉しい！ 講師の方、受講されたみなさん、ありがとうございました！
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section id="reviews">
-		<div class="review-content">
-			<h3 class="">開講中の授業風景とSlackコミュニケーション</h3>
-			<div class="slack-review-box">
-				<img src="images/photo-8.png" class="slack-review-1" alt="slack-review" width="60%" />
-				<img src="images/photo-8.1.png" class="slack-review-2" alt="slack-review" width="60%" />
-			</div>
-		</div>
-	</section>
-
-	
-
 	<section id="webinar">
 		<h2>就職/転職サポート</h2>
 		<h3>~世界で活躍できるサポート~</h3>
@@ -618,52 +373,187 @@
 			</div>
 		</div>
 	</section>
-	
-	<section id="rec-to">
-		<h2>こんな方におすすめ</h2>
-		<div class="rec-wrap">
-			<div class="rec-item">
-				<div class="recommend-icon-box">
-					<img class="recommend-icon" src="images/photo-12.jpg" alt="recommend">
+
+	<section id="teachers" class="main style4 primary">
+		<div class="content-location">
+			<header>
+				<h2>講師紹介</h2>
+				<h3>Teacher</h3>
+				<p class="section-description">
+					プログラミング講師は、日本人の現役エンジニア。<br>
+					みなさんがつまずくポイントを熟知したプロフェッショナルです。困ったら、いつでも相談ができる頼れる存在です。
+				</p>
+			</header>
+			<div class="flexwrap">
+				<div class="imgbox-office">
+					<img src="images/shinya-2.jpg" alt="shinya">
 				</div>
-				<div class="rec-item-bottom">
-					<h3><em>1.</em>仕事をしながらプログラミング学習を両立したい人</h3>
+				<div class="textbox-office">
+					<h3>Shinya Hirai</h3>
+					<!-- <p>第３回 旅人メイン講師  /  第２回 メンター</p> -->
+					<hr>
 					<p>
-						仕事は続けたい、両立しながらプログラミング学習がしたい！という人に向けたコースです。<br>
-						週2日間ならプログラミングと仕事の両立は必ずできます。
+					　Seed Tech School の現役エンジニア。大学時代にプログラミングに魅了され、若くしてフリーランス・エンジニアとして独立。IT留学の立ち上げを牽引し、現在は同社のエンジニア・カリキュラム開発責任者 / マネージャーとして活躍。
 					</p>
 				</div>
 			</div>
-			<div class="rec-item">
-				<div class="recommend-icon-box">
-					<img class="recommend-icon" src="images/photo-13.jpg" alt="recommend">
+
+			<div class="flexwrap right">
+				<div class="imgbox-office">
+					<img src="images/hayato-2.jpg" alt="hayato">
 				</div>
-				<div class="rec-item-bottom">
-					<h3><em>2.</em>自習時間をしっかり取りたい人</h3>
+				<div class="textbox-office right">
+					<h3>Hayato Sasano</h3>
+					<!-- <p>第２回 旅人メイン講師  /  第３回 メンター</p> -->
+					<hr>
 					<p>
-						自分のスピードで自習時間を取りながらオンライン学習を進めたい方にはピッタリのコースです。<br>
-						特に未経験で授業のスピードについていけるか不安な方、もちろん自主学習の時間がたっぷりとれるため、安心して受講していただけます。<br>
-						プログラミングの勉強をしていたけれど挫折した経験がある方も、リベンジしませんか？
+						前職は外航船員。エンジニアになるためにスクールに通い途中挫折しかけるが、当時のメンターに励まされ、船上で半年以上インターネットもない環境で生活できる忍耐力で、毎日12時間以上勉強。<br>
+						自分のように苦労してる人を今度は自分が助けられるようになりたいと考え、講師として参画。
 					</p>
 				</div>
 			</div>
-			<div class="rec-item">
-				<div class="recommend-icon-box">
-					<img class="recommend-icon" src="images/photo-14.jpg" alt="recommend">
+
+			<div class="flexwrap">
+				<div class="imgbox-office">
+					<img src="images/takeru_kayamori.jpg" alt="takerukayamori">
 				</div>
-				<div class="rec-item-bottom">
-					<h3><em>3.</em>マーケティング・ディレクションをしながらエンジニアにもなりたい人</h3>
+				<div class="textbox-office">
+					<h3>Takeru Kayamori</h3>
+					<!-- <p>第２・３回プログラミング講師</p> -->
+					<hr>
 					<p>
-						サイトやサービス、アプリを作り出す仕事はとてもクリエイティブです。<br>
-						マーケティング・ディレクション技術の他にエンジニアとしての技術があれば、自分が作りたい、ワクワクするものを自分の企画から作ることができます。
+						　早稲田大学政治経済学部卒業後、IT x 英語の2つのスキルを身につけるため、約1年半、アメリカに留学。語学を身に付けつつ、ITの本場サンフランシスコで、生徒数200名以上の大規模なプログラミングスクール「General Assembly」を唯一の日本人として卒業。<br>
+						　文系出身のエンジニアとして、初心者の立場に立った丁寧な指導を得意とする。
 					</p>
 				</div>
 			</div>
 		</div>
 	</section>
-	
 
-	
+	<section id="price" class="main style3 primary">
+		<div class="content">
+			<header>
+				<h2>概要</h2>
+				<h3>Overview</h3>
+				<p class="section-description">
+					お仕事をしながら（学校に通いながら）、夜の時間を使って半年かけて、エンジニアに転職するためのスキルを身につけるコースをご用意しています。<br>
+					週に2回のプログラミングの授業を受講、週に3回自習時間を取り学習していただく、プログラミングを学習したけど時間がないというお悩みを解消できるスケジュールになっています。</p>
+			</header>
+
+			<img src="images/graph-c-2.png" class="graph-c-2-img" />
+			<!-- 料金表 -->
+			<!--  -->
+			<table class="table-a table-d table-d-a">
+				<tbody>
+					<tr>
+						<th rowspan="1">開催時期</th>
+						<td colspan="3">2020年8月10日〜2021年2月5日</td>
+					</tr>
+					<tr>
+						<th rowspan="1">曜日・時間</th>
+						<td colspan="3">
+						時間：19～21時<br>
+						授業の曜日は開講日によって異なります。
+						</td>
+					</tr>
+					<tr>
+						<th rowspan="1">提供授業</th>
+						<td colspan="3">プログラミング講義2コマ/週×24週間</td>
+					</tr>
+					<tr>
+						<th rowspan="1">料金</th>
+						<td colspan="3">
+						¥598,000 <br>
+						※夜間じっくりコースには別途消費税が掛かります。
+						</td>
+					</tr>
+					<tr>
+						<th rowspan="1">入学金</th>
+						<td colspan="3">¥20,000 (1年以内に別コースで再入学される場合は入学金が不要です。 )</td>
+					</tr>
+					<tr>
+						<th rowspan="1">1日のスケジュール</th>
+						<td colspan="3"><img src="images/graph-b-1.png"> </td>
+					</tr>
+					<tr>
+						<th rowspan="1">休校日</th>
+						<td colspan="3">7/10、9/3、9/28、11/2、11/30、12/8、12/24、12/25、12/28～31</td>
+					</tr>
+				</tbody>
+			</table>
+			<table class="table-b table-d table-d-b hide-element">
+				<tbody>
+					<tr>
+						<th rowspan="1">開催時期</th>
+						<td colspan="3">2020年8月31日〜2020年9月25日</td>
+					</tr>
+					<tr>
+						<th rowspan="1">旅人メイン講師</th>
+						<td colspan="3">前田塁</td>
+					</tr>
+					<tr>
+						<th rowspan="1">メンター</th>
+						<td colspan="3">KOH</td>
+					</tr>
+					<tr>
+						<th rowspan="1">プログラミング講師</th>
+						<td colspan="3">栢森威瑠（カヤモリタケル）</td>
+					</tr>
+					<tr>
+						<th rowspan="1">参加人数<sup>※</sup></th>
+						<td colspan="2">12名</td>
+					</tr>
+					<tr>
+						<th rowspan="1">提供授業</th>
+						<td colspan="2">
+							プログラミング講義週6コマ/週<br>
+							旅人講義4コマ/週<br>
+							英語授業5コマ/週</td>
+					</tr>
+					<tr>
+						<th rowspan="3">授業スケジュール</th>
+						<td>プログラミング</td>
+						<td>月・水・金　19:00-21:00</td>
+					</tr>
+					<tr>
+						<td>旅人講義</td>
+						<td>火・木　19:00-21:00</td>
+					</tr>
+					<tr>
+						<td>英語</td>
+						<td>月〜金　18:00-19:00</td>
+					</tr>
+					<tr>
+						<th rowspan="1">料金</th>
+						<!-- <td>英語授業あり</td> -->
+						<td colspan="2">
+							¥218,000<br>
+							<span class="discount">7月31日までのお申し込みで2万円割引</span>
+						</td>
+						
+					</tr>
+					<tr>
+						<th rowspan="1">お申し込み締切</th>
+						<td colspan="2">2020年8月21日</td>
+					</tr>
+					<tr>
+						<th rowspan="1" class="last-th">特典</th>
+						<td colspan="2">
+							ネクシードへの英語留学2週間を特別価格でご案内<br>
+							1人部屋：<del>¥144,000</del> → <span class="price-bolder">¥98,000</span><br>
+							<span class="note">※上記に加えて、渡航費用、出国費用、VISA費用、生活費用が必要です。</span>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<!-- <span class="classmates-note" style="font-size:9pt;">※お問い合わせ状況によって参加人数を増枠する可能性があります。</span><br> -->
+			<span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br>
+			<div class="conversion_btn animated">
+				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
+			</div>
+		</div>
+	</section>
 
 	<section id="price" class="main style3 secondary">
 		<div class="content">
@@ -725,11 +615,12 @@
 						</div>
 					</div>
 				</div>
-				
+
 				<div class="triangle-down"></div>
+
 				<div class="stepbox">
 					<div class="stepbox-inner">
-						<div class="stepbox-head head4">
+						<div class="stepbox-head head3">
 							<p>STEP4</p>
 						</div>
 						<div class="stepbox-body">
@@ -865,7 +756,7 @@
 			<div class="contact-body">
 				<div class="contact-body-pc">
 					<p>スマートフォンでご覧ください</p>
-					<img src="images/qr-code-2.png" alt="lineat_qrcode">
+					<img src="images/qr-code-3.png" alt="lineat_qrcode">
 					<p>LINEアプリを起動して、QRコードを読み取ってください。</p>
 				</div>
 				<div class="conversion_btn animated">

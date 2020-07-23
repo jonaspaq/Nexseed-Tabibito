@@ -2596,7 +2596,7 @@ body {
 
 .main.style4 {
     text-align: center;
-    padding: 3em 0 2em 0;
+    padding: 6em 0 2em 0;
 }
 
 .main.style4.primary {
@@ -3698,7 +3698,7 @@ body.is-touch .main {
 
 #webinar {
   width: 100%;
-  padding-bottom: 7em;
+  padding: 6em 0;
   background: white;
 }
 #webinar a {

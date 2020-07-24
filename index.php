@@ -99,10 +99,11 @@
 
 	<!-- Intro -->
 	<section id="intro" class="main style1 dark fullscreen">
-		<p>
+		<p class="intro-text">
 		未経験からITスキルを身に付けて <br>
-		世界が求めるエンジニアになろう。<br>
-		人生を変える24週間『Seed Tech Online 夜間じっくりコース』
+		<span class="blue-span">世界が求めるエンジニア</span>になろう。<br>
+		人生を変える24週間<br>
+		Seed Tech Online 夜間じっくりコース』
 		</p>
 		<!-- <div class="intro-wrap">			
 			<img src="images/new-top-4.png" alt="旅人エンジニア留學" class="intro-img-logo">
@@ -183,7 +184,7 @@
 			<div class="feature-cards">
 				<div class="feature-card">
 					
-					<h3 class="feature-card-title"><span class="feature-num">1</span>NexSeed独自オンライン学習マネジメントシステムの活用</h3>
+					<h3 class="feature-card-title"><span class="feature-num">1</span>就業・就学しながらでも充実した授業内容を実現</h3>
 					<p class="feature-card-description des-one">
 						授業回数は週2回夜の時間での講義と、自習時間も含め24週間（半年間）で400時間以上の学習時間が確保できます。<br>
 						「夜間じっくりコース」では仕事や学業との両立を行いながら、半年間でエンジニアとして就職するレベルのスキルを身につけます。<br><br>
@@ -192,7 +193,7 @@
 				</div>
 				<div class="feature-card">
 					
-					<h3 class="feature-card-title"><span class="feature-num">2</span>チーム開発で実務に近い経験が得られる</h3>
+					<h3 class="feature-card-title"><span class="feature-num">2</span>仲間と士気を高めあう、挫折しない仕組み</h3>
 					<p class="feature-card-description des-two">
 						2,000名超の卒業生のデータをもとにNexSeedが独自に開発した学習マネジメントシステム(LMS)を用いて、生徒ごとの学習時間やカリキュラム進捗率を可視化します。<br><br>
 						進捗が可視化されることで、生徒同士で学習意欲を刺激しあい、また、学習時間が足りていない場合には学習を促すようサポートします。
@@ -200,14 +201,11 @@
 				</div>
 				<div class="feature-card">
 					
-					<h3 class="feature-card-title"><span class="feature-num">3</span>Slackでのコミュニケーション/ 動画で講義復習、わからない部分は講師に相談可</h3>
+					<h3 class="feature-card-title"><span class="feature-num">3</span>夜間コースのみ分割支払いが可能</h3>
 					<p class="feature-card-description des-three">
-						同じタームの生徒専用のチャンネルを作成するため、日々アップデートされる情報をお互いにシェアしたり、相談しあうことが可能です。<br>
-						また、今後は全てのタームの生徒全員が参加するチャンネルを作成し、生徒がオンラインIT留学の卒業生へ質問できるような環境を用意し、コミュニティ化を推進する予定です。<br>
-						また、講義内容は必ず翌日午前中に動画として展開されます。<br>
-						多忙でご参加いただけなかった回の授業も動画にてキャッチアップが可能です。<br>
-						また、講義や動画のあとに自分では解決できない疑問があった際には、講師に個別に相談することが可能です。
-						
+						夜間コースのみ分割支払いが最大6回まで可能になります。<br><br>
+						受講したいけど費用でご検討されている方にとってプログラミングを学びやすいコースになっています。<br>
+						分割のご相談はアドバイザーが手厚くサポートします。
 					</p>
 				</div>
 			</div>
@@ -430,7 +428,6 @@
 					週に2回のプログラミングの授業を受講、週に3回自習時間を取り学習していただく、プログラミングを学習したけど時間がないというお悩みを解消できるスケジュールになっています。</p>
 			</header>
 
-			<img src="images/graph-c-2.png" class="graph-c-2-img" />
 			<!-- 料金表 -->
 			<!--  -->
 			<table class="table-a table-d table-d-a">
@@ -471,6 +468,9 @@
 					</tr>
 				</tbody>
 			</table>
+
+			<img src="images/graph-c-2.png" class="graph-c-2-img" />
+
 			<table class="table-b table-d table-d-b hide-element">
 				<tbody>
 					<tr>
@@ -562,8 +562,7 @@
 							<p>
 								希望コース、カリキュラム、期間、料金、何を学んだらいいかわからないなどといったご相談をお気軽にお問い合わせください。<br>
 								アドバイス経験豊富なアドバイザーよりお返事します。<br>
-								受講者様それぞれのお悩みやレベル、目的に合わせたカリキュラムをご用意しています。<br>
-								2,000人もの卒業生を世界中に輩出している実績から、 最適なプランを提案します。<br>
+								受講者様それぞれのお悩みやレベル、目的に合わせた最適なプランをご用意しています。<br>
 								月額/分割お支払いのご相談もしていただけます。
 							</p>
 							
@@ -767,6 +766,7 @@
 				<li><a href="https://www.instagram.com/nexseed_net/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 			</ul>
 			<ul class="footer-right">
+				<img src="images/logo.png" alt="nexseed" width="35%">
 				<li>
 					<a href="https://nexseed.net/">会社情報</a></li>
 				<li>

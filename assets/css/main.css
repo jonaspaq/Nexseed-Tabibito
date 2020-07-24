@@ -2820,6 +2820,15 @@ body.is-touch .main {
     width: 50%;
     margin-left: 69px;
 }
+.intro-text {
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.5;
+}
+.blue-span {
+    color: rgb(70, 70, 255);
+}
 
 
 /*	#intro h2{
@@ -2835,7 +2844,7 @@ body.is-touch .main {
     
     #intro {
         height: 400px;
-        background: url("images/overlay.png"), url("../../images/cover-top-1.JPG");
+        background: url("images/overlay.png"), url("../../images/char-overlay-1.jpg");
         background-size: cover;
         background-position: right;
         background-repeat: no-repeat;
@@ -2847,6 +2856,9 @@ body.is-touch .main {
         width: auto;
         height: 90px;
         margin-left: 0;
+    }
+    .intro-text {
+        font-size: 20px; 
     }
     .hidden {
         display: none;
@@ -2913,7 +2925,7 @@ body.is-touch .main {
     width: 85%;
     display: flex;
     
-    background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url("../../images/char-overlay-1.jpg");
+    background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url("../../images/char-overlay-2.jpg");
     background-size: cover;
     /* background-attachment: fixed, fixed; */
     background-position: top left, center center;
@@ -2986,7 +2998,7 @@ body.is-touch .main {
     .feature-cards {
         flex-direction: column;
         width: 100%;
-        background: white;
+        /* background: rgb(224, 224, 224); */
     }
     .feature-card {
         width: 100%;
@@ -2999,24 +3011,8 @@ body.is-touch .main {
     .feature-num {
         /* font-size:  */
     }
-    .feature-card:nth-child(1) {
-        background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url(../../images/ruisu_sp.jpg);
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-    }
-    .feature-card:nth-child(2) {
-        background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url(../../images/class_sp.jpg);
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-    }
-    .feature-card:nth-child(3) {
-        background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url(../../images/threesp.jpg);
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-    }
+    /* .
+     */
     .feature-card-description {
         opacity: 1;
         top: 0;

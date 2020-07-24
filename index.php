@@ -31,7 +31,8 @@
 	<meta property="og:description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="http://nexseed.net/lp/tabibito-engineer">
-	<meta property="og:image" content="https://nexseed.net/meta_top_img.png">
+	<!-- <meta property="og:image" content="https://nexseed.net/meta_top_img.png"> -->
+	<meta property="og:image" content="images/top-page-bg-1.jpg">
 	<meta name="thumbnail" content="https://nexseed.net/meta_top_img.png" />
 	<link rel="shortcut icon" href="https://nexseed.net/n-icon.png" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -103,7 +104,7 @@
 		未経験からITスキルを身に付けて <br>
 		<span class="blue-span">世界が求めるエンジニア</span>になろう。<br>
 		人生を変える24週間<br>
-		Seed Tech Online 夜間じっくりコース』
+		『Seed Tech Online 夜間じっくりコース』
 		</p>
 		<!-- <div class="intro-wrap">			
 			<img src="images/new-top-4.png" alt="旅人エンジニア留學" class="intro-img-logo">
@@ -468,8 +469,31 @@
 					</tr>
 				</tbody>
 			</table>
+			
+			<div class="flexwrap right guest">
+				<div class="imgbox-office">
+					<img src="images/mochinaga.jpg" alt="mochinaga">
+				</div>
+				<div class="textbox-office right">
+					<h4>第1期ゲスト参加決定</h4>
+					<br>
+					<span>持永 真実</span>
+					<hr>
+					<p>
+						17歳からモデル活動スタート。<br>
+						2011年ZOZOTOWN専属モデルオーディションにてグランプリ受賞。<br>
+						本格的に芸能活動を始める。<br><br>
+						【主な活動】<br>
+						フィットネスモデルとしてテレビやスポーツイベント、雑誌やWEBメディアなど多数出演。<br>
+						ヘルスケアアプリFiNC、カネボウリサージ、ナチュラルビューティースタイリストのアンバサダー。<br><br>
 
-			<img src="images/graph-c-2.png" class="graph-c-2-img" />
+						HTMLとC言語などプログラミングを学んだ経験もあり、スキルアップを目指し参加。<br><br>
+
+						<span> instagram @mami_mochinaga</span>
+					</p>
+				</div>
+			</div>
+			<!-- <img src="images/graph-c-2.png" class="graph-c-2-img" /> -->
 
 			<table class="table-b table-d table-d-b hide-element">
 				<tbody>
@@ -538,7 +562,7 @@
 			</table>
 			
 			<!-- <span class="classmates-note" style="font-size:9pt;">※お問い合わせ状況によって参加人数を増枠する可能性があります。</span><br> -->
-			<span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br>
+			<!-- <span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br> -->
 			<div class="conversion_btn animated">
 				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
 			</div>
@@ -660,8 +684,7 @@
 			<div class="accshow">
 			<!--ここに隠す中身-->
 			<p>
-				「夜間じっくりコース」のみ、分割払いが可能です。<br>
-				分割のご相談は、当社カウンセラーへ詳細ご確認ください。
+			  はい！<a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh" target="_blank">こちらの公式LINE</a>に登録していただき、日程調整後、スタッフと直接電話にてご相談いただけます。
 			</p>
 			</div>
 			<!--//ラベル3-->
@@ -704,9 +727,13 @@
 		    <input type="checkbox" id="label8" class="cssacc" />
 		    <div class="accshow">
 		      <!--ここに隠す中身-->
-		      <p>
+		      <!-- <p>
 			  	「夜間じっくりコース」のみ、分割払いが可能です。
-		      </p>
+		      </p> -->
+			  <p>
+				「夜間じっくりコース」のみ、分割払いが可能です。<br>
+				分割のご相談は、当社カウンセラーへ詳細ご確認ください。
+			  </p>
 		    </div>
 		  	<!--//ラベル11-->
 

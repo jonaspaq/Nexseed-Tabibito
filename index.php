@@ -31,7 +31,8 @@
 	<meta property="og:description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="http://nexseed.net/lp/tabibito-engineer">
-	<meta property="og:image" content="https://nexseed.net/meta_top_img.png">
+	<!-- <meta property="og:image" content="https://nexseed.net/meta_top_img.png"> -->
+	<meta property="og:image" content="images/top-page-bg-1.jpg">
 	<meta name="thumbnail" content="https://nexseed.net/meta_top_img.png" />
 	<link rel="shortcut icon" href="https://nexseed.net/n-icon.png" />
 	<link rel="stylesheet" href="assets/css/main.css" />

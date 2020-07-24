@@ -103,7 +103,7 @@
 		未経験からITスキルを身に付けて <br>
 		<span class="blue-span">世界が求めるエンジニア</span>になろう。<br>
 		人生を変える24週間<br>
-		Seed Tech Online 夜間じっくりコース』
+		『Seed Tech Online 夜間じっくりコース』
 		</p>
 		<!-- <div class="intro-wrap">			
 			<img src="images/new-top-4.png" alt="旅人エンジニア留學" class="intro-img-logo">
@@ -727,9 +727,12 @@
 		    <input type="checkbox" id="label8" class="cssacc" />
 		    <div class="accshow">
 		      <!--ここに隠す中身-->
-		      <p>
+		      <!-- <p>
 			  	「夜間じっくりコース」のみ、分割払いが可能です。
-		      </p>
+		      </p> -->
+			  <p>
+			  はい！<a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh" target="_blank">こちらの公式LINE</a>に登録していただき、日程調整後、スタッフと直接電話にてご相談いただけます。
+			  </p>
 		    </div>
 		  	<!--//ラベル11-->
 

@@ -468,8 +468,31 @@
 					</tr>
 				</tbody>
 			</table>
+			
+			<div class="flexwrap right guest">
+				<div class="imgbox-office">
+					<img src="images/mochinaga.jpg" alt="mochinaga">
+				</div>
+				<div class="textbox-office right">
+					<h4>第1期ゲスト参加決定</h4>
+					<br>
+					<span>持永 真実</span>
+					<hr>
+					<p>
+						17歳からモデル活動スタート。<br>
+						2011年ZOZOTOWN専属モデルオーディションにてグランプリ受賞。<br>
+						本格的に芸能活動を始める。<br><br>
+						【主な活動】<br>
+						フィットネスモデルとしてテレビやスポーツイベント、雑誌やWEBメディアなど多数出演。<br>
+						ヘルスケアアプリFiNC、カネボウリサージ、ナチュラルビューティースタイリストのアンバサダー。<br><br>
 
-			<img src="images/graph-c-2.png" class="graph-c-2-img" />
+						HTMLとC言語などプログラミングを学んだ経験もあり、スキルアップを目指し参加。<br><br>
+
+						<span> instagram @mami_mochinaga</span>
+					</p>
+				</div>
+			</div>
+			<!-- <img src="images/graph-c-2.png" class="graph-c-2-img" /> -->
 
 			<table class="table-b table-d table-d-b hide-element">
 				<tbody>
@@ -538,7 +561,7 @@
 			</table>
 			
 			<!-- <span class="classmates-note" style="font-size:9pt;">※お問い合わせ状況によって参加人数を増枠する可能性があります。</span><br> -->
-			<span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br>
+			<!-- <span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br> -->
 			<div class="conversion_btn animated">
 				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
 			</div>

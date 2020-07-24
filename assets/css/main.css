@@ -2332,7 +2332,39 @@ body.is-touch .poptrox-popup .closer {
     }
 } */
 
+.guest {
+    box-shadow: 0 0 7px grey;
+    border-radius: 3px;
+    padding: 2em 2.5em;
+}
 
+.guest h4 {
+    font-size: 1.2em;
+}
+
+.guest .imgbox-office {
+    width: unset;
+}
+
+.guest .imgbox-office>img {
+    margin-top: 3.5em;
+}
+
+.guest .textbox-office>p {
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+.guest .textbox-office>span {
+    font-size: 30px;
+    letter-spacing: 2.5px;
+    color: grey;
+}
+
+.guest .textbox-office p>span {
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
 /* Header */
 
 #header {
@@ -2596,7 +2628,7 @@ body {
 
 .main.style4 {
     text-align: center;
-    padding: 6em 0 2em 0;
+    padding: 3em 0 2em 0;
 }
 
 .main.style4.primary {
@@ -2820,15 +2852,6 @@ body.is-touch .main {
     width: 50%;
     margin-left: 69px;
 }
-.intro-text {
-    color: white;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 1.5;
-}
-.blue-span {
-    color: rgb(70, 70, 255);
-}
 
 .fvafter {
     font-weight: bold;
@@ -2851,9 +2874,6 @@ body.is-touch .main {
         width: auto;
         height: 90px;
         margin-left: 0;
-    }
-    .intro-text {
-        font-size: 20px; 
     }
     .hidden {
         display: none;
@@ -2920,7 +2940,7 @@ body.is-touch .main {
     width: 85%;
     display: flex;
     
-    background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url("../../images/char-overlay-2.jpg");
+    background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url("../../images/char-overlay-1.jpg");
     background-size: cover;
     /* background-attachment: fixed, fixed; */
     background-position: top left, center center;
@@ -2993,7 +3013,7 @@ body.is-touch .main {
     .feature-cards {
         flex-direction: column;
         width: 100%;
-        /* background: rgb(224, 224, 224); */
+        background: white;
     }
     .feature-card {
         width: 100%;
@@ -3006,8 +3026,24 @@ body.is-touch .main {
     .feature-num {
         /* font-size:  */
     }
-    /* .
-     */
+    .feature-card:nth-child(1) {
+        background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url(../../images/ruisu_sp.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    .feature-card:nth-child(2) {
+        background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url(../../images/class_sp.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    .feature-card:nth-child(3) {
+        background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url(../../images/threesp.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
     .feature-card-description {
         opacity: 1;
         top: 0;
@@ -3689,7 +3725,7 @@ body.is-touch .main {
 
 #webinar {
   width: 100%;
-  padding: 6em 0;
+  padding-bottom: 7em;
   background: white;
 }
 #webinar a {

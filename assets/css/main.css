@@ -2853,6 +2853,16 @@ body.is-touch .main {
     margin-left: 69px;
 }
 
+.intro-text {
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.5;
+}
+.blue-span {
+    color: rgb(70, 70, 255);
+}
+
 .fvafter {
     font-weight: bold;
     font-size: 1.5rem;
@@ -2874,6 +2884,9 @@ body.is-touch .main {
         width: auto;
         height: 90px;
         margin-left: 0;
+    }
+    .intro-text {
+        font-size: 20px; 
     }
     .hidden {
         display: none;

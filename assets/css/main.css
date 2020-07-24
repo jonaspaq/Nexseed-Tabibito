@@ -1362,9 +1362,9 @@ ul.icons a {
 
 /* Sections/Article */
 
-header {
+/* header {
     margin-bottom: 1em;
-}
+} */
 
 header p {
     display: block;
@@ -2449,7 +2449,8 @@ body.is-touch .poptrox-popup .closer {
 }
 
 body {
-    padding-top: 1em;
+    /* padding-top: 50px; */
+    display: block
 }
 
 @media screen and (max-width: 736px) {
@@ -2839,9 +2840,11 @@ body.is-touch .main {
     background-size: cover;
     background-attachment: fixed;
     /* background-position: bottom center; */
-    background-position: center;
+    background-position: 100% 100% 100% 100%;
     background-repeat: no-repeat;
     height: 100vh;
+    margin-top: 50px;
+    
 }
 .intro-wrap {
     width: 100vw;
@@ -2953,7 +2956,7 @@ body.is-touch .main {
     width: 85%;
     display: flex;
     
-    background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url("../../images/char-overlay-1.jpg");
+    background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url("../../images/char-overlay-2.jpg");
     background-size: cover;
     /* background-attachment: fixed, fixed; */
     background-position: top left, center center;
@@ -3026,7 +3029,7 @@ body.is-touch .main {
     .feature-cards {
         flex-direction: column;
         width: 100%;
-        background: white;
+        /* background: white; */
     }
     .feature-card {
         width: 100%;
@@ -3039,7 +3042,7 @@ body.is-touch .main {
     .feature-num {
         /* font-size:  */
     }
-    .feature-card:nth-child(1) {
+    /* .feature-card:nth-child(1) {
         background: linear-gradient(rgba(235, 235, 235, 0.75), rgba(235, 235, 235, 0.9)), url(../../images/ruisu_sp.jpg);
         background-size: cover;
         background-position: center;
@@ -3056,7 +3059,7 @@ body.is-touch .main {
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
-    }
+    } */
     .feature-card-description {
         opacity: 1;
         top: 0;

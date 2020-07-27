@@ -2861,12 +2861,23 @@ body.is-touch .main {
     color: rgb(34, 34, 34);
     font-size: 40px;
     line-height: 1.5;
+    z-index: 1;
 }
 .blue-span {
     font-weight: 700;
-    color: rgb(70, 70, 255);
-    text-decoration: underline;
-    text-decoration-color: yellow;
+    color: #1678a2;
+    /* text-decoration: underline; */
+    /* text-decoration-color: yellow; */
+}
+
+.blue-span::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 5px;
+    border-bottom: 14px solid yellow;
+    z-index: -1;
 }
 
 .fvafter {

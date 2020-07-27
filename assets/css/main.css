@@ -2859,11 +2859,11 @@ body.is-touch .main {
 .intro-text {
     background: rgba(255, 255, 255, 0.7);
     color: rgb(34, 34, 34);
-    font-weight: 700;
     font-size: 40px;
     line-height: 1.5;
 }
 .blue-span {
+    font-weight: 700;
     color: rgb(70, 70, 255);
     text-decoration: underline;
     text-decoration-color: yellow;

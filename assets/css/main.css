@@ -2862,6 +2862,7 @@ body.is-touch .main {
     font-size: 40px;
     line-height: 1.5;
     z-index: 1;
+    padding: 20px;
 }
 .blue-span {
     font-weight: 700;
@@ -2904,6 +2905,7 @@ body.is-touch .main {
     }
     .intro-text {
         font-size: 20px; 
+        padding: 15px;
     }
     .hidden {
         display: none;

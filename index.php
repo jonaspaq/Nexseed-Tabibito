@@ -122,8 +122,8 @@
 			</header>
 			<p>				
 				働きながらプログラミングをオンラインで学び、グローバルに活躍できるエンジニアになろう。<br>
-				NexSeedでは、LINEでお問い合わせを承っております。<br>
-				カリキュラムや料金、申込方法について気になることがございましたら、下のボタンよりお友達追加お願いいたします。
+				LINEで質問・お問い合わせを承っております。<br>
+				カリキュラムや料金、申込方法について気になることがございましたら、LINE@よりお問い合わせください。
 			</p>
 
 			<div class="conversion_btn animated">
@@ -220,7 +220,10 @@
 		<div class="content">
 			<header>
 				<h2>まずはお気軽にお問い合わせください</h2>
-				<p>NexSeedでは、LINEでお問い合わせを承っております。<br>カリキュラムや料金、申込方法について気になることがございましたら、<br>下のボタンよりお友達追加お願いいたします。</p>
+				<p>
+				LINEで質問・お問い合わせを承っております。<br>
+				カリキュラムや料金、申込方法について気になることがございましたら、LINE@よりお問い合わせください。<br>
+				</p>
 			</header>
 
 			<div class="conversion_btn animated">
@@ -292,7 +295,7 @@
 
 	<section id="webinar">
 		<h2>就職/転職サポート</h2>
-		<h3>~世界で活躍できるサポート~</h3>
+		<h3>Recruitment Support</h3>
 		<div class="webinars-wrap">
 			
 			<div class="webinar-card">
@@ -347,8 +350,8 @@
 		<div class="absent">
 			<p>
 				<!-- <span class="marker">当日の参加が難しいという方も</span> -->
-				NexSeedでは、LINEでお問い合わせを承っております。<br>
-				カリキュラムや料金、申込方法について気になることがございましたら、下のボタンよりお友達追加お願いいたします。
+				LINEで質問・お問い合わせを承っております。<br>
+				カリキュラムや料金、申込方法について気になることがございましたら、LINE@よりお問い合わせください。
 			</p>
 			<!-- <div class="absent-btn">
 				<a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">ウェビナー動画の配布を希望する</a>

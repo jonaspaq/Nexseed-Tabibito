@@ -2903,7 +2903,7 @@ body.is-touch .main {
         margin-left: 0;
     }
     .intro-text {
-        font-size: 20px; 
+        font-size: 21px; 
         padding: 15px;
         margin: 0;
     }
@@ -2914,6 +2914,21 @@ body.is-touch .main {
     .blue-span::after {
         border-bottom: 6.5px solid yellow;
     }
+
+    #work .mobile {
+        display: block!important;
+        visibility: visible!important;
+    }
+
+    #work .pc {
+        display: none;
+        visibility: hidden;
+    }
+}
+
+#work .mobile {
+    display: none;
+    visibility: hidden;
 }
 
 @media screen and (min-width: 700px) {
@@ -2928,6 +2943,7 @@ body.is-touch .main {
         font-size: 200% !important;
     }
 }
+
 
 .kazuraki-font {
     font-family: kazuraki-sp2n, serif;

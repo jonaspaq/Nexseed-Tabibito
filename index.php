@@ -116,8 +116,12 @@
 	<!-- Covid19 -->
 	<section id="work" class="main style3 primary">
 		<div class="content">
-			<header>
+			<header class="pc">
 				<h2>オンライン留学 Seed Tech Online<br>
+				<span style="color: red;">"夜間じっくりコース"</span>&nbsp;&nbsp; が開講！</h2>
+			</header>
+			<header class="mobile">
+				<h2>オンライン留学 <br>Seed Tech Online<br>
 				<span style="color: red;">"夜間じっくりコース"</span>&nbsp;&nbsp; が開講！</h2>
 			</header>
 			<p>				

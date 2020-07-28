@@ -118,7 +118,7 @@
 		<div class="content">
 			<header>
 				<h2>オンライン留学 Seed Tech Online<br>
-				<span style="color: red;">"夜間じっくりコース"</span>が開講！</h2>
+				<span style="color: red;">"夜間じっくりコース"</span>&nbsp;&nbsp; が開講！</h2>
 			</header>
 			<p>				
 				働きながらプログラミングをオンラインで学び、グローバルに活躍できるエンジニアになろう。<br>

@@ -2843,7 +2843,6 @@ body.is-touch .main {
     background-position: 100% 100% 100% 100%;
     background-repeat: no-repeat;
     height: 100vh;
-    margin-top: 50px;
     
 }
 .intro-wrap {
@@ -2857,9 +2856,11 @@ body.is-touch .main {
 }
 
 .intro-text {
+    margin: 0 50px;
     background: rgba(255, 255, 255, 0.7);
     color: rgb(34, 34, 34);
     font-size: 40px;
+    letter-spacing: 7.5px;
     line-height: 1.5;
     z-index: 1;
     padding: 20px;
@@ -2867,8 +2868,6 @@ body.is-touch .main {
 .blue-span {
     font-weight: 700;
     color: #1678a2;
-    /* text-decoration: underline; */
-    /* text-decoration-color: yellow; */
 }
 
 .blue-span::after {
@@ -2876,7 +2875,7 @@ body.is-touch .main {
     position: absolute;
     width: 100%;
     left: 0;
-    bottom: 5px;
+    bottom: 2.2px;
     border-bottom: 14px solid yellow;
     z-index: -1;
 }
@@ -2906,9 +2905,14 @@ body.is-touch .main {
     .intro-text {
         font-size: 20px; 
         padding: 15px;
+        margin: 0;
     }
     .hidden {
         display: none;
+    }
+
+    .blue-span::after {
+        border-bottom: 6.5px solid yellow;
     }
 }
 

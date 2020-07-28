@@ -3155,9 +3155,9 @@ body.is-touch .main {
   .contact-body-sp {
     display: block;
   }
-  .contact-body-pc {
+  /* .contact-body-pc {
     display: none;
-  }
+  } */
 }
 /* #contact .box {
     -moz-transition: -moz-transform 1s ease;

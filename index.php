@@ -3,32 +3,26 @@
 <html>
 
 <head>
-	<!-- Google Tag Manager -->
-	<!-- <script>
-		(function(w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({
-				'gtm.start': new Date().getTime(),
-				event: 'gtm.js'
-			});
-			var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s),
-				dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src =
-				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-K95V8MS');
-	</script> -->
-	<!-- End Google Tag Manager -->
-	<title>NexSeed 旅人エンジニア留学</title>
+	<!-- Google Tag Manager-->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MMNTKMJ');
+  </script>
+  <!-- End Google Tag Manager-->
+	<title>オンライン留学 Seed Tech Online夜間じっくりコースを開講！</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<meta name="Keywords" content="NexSeed,フィリピン留学,セブ島,語学留学,語学学校,英語,ビジネス英語,格安,企業研修,短期留学,海外研修,グローバル人材,語学研修,旅人エンジニア留学">
 	<meta name="description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
 
-	<meta property="og:title" content="NexSeed 旅人エンジニア留学">
-	<meta property="og:description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
+	<meta property="og:title" content="オンライン留学 Seed Tech Online夜間じっくりコースを開講！">
+	<meta property="og:description" content="Seed Tech Schoolが運営するオンライン留学Seed Tech Onlineの「夜間じっくりコース」です。就学・就業しながら24週間でPHPをメインに、データベースと連携したWebアプリの開発を行い、エンジニアに転職するためのスキルを身に着けます。">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="http://nexseed.net/lp/tabibito-engineer">
 	<!-- <meta property="og:image" content="https://nexseed.net/meta_top_img.png"> -->
@@ -36,6 +30,40 @@
 	<meta name="thumbnail" content="https://nexseed.net/meta_top_img.png" />
 	<link rel="shortcut icon" href="https://nexseed.net/n-icon.png" />
 	<link rel="stylesheet" href="assets/css/main.css" />
+
+<script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "url":"https://nexseed.net/lp/night-course/",
+        "name" : "オンライン留学 Seed Tech Online夜間じっくりコースを開講！",
+        "headline": "オンライン留学 Seed Tech Online夜間じっくりコースを開講！",
+        "mainEntityOfPage":{
+          "@type": "WebPage",
+          "@id":"https://nexseed.net/lp/night-course/"
+        },
+        "datePublished": "2020-06-27",
+        "description": "エンジニア留学はそんなITによって国という垣根がなくなっていく新時代に、縦横無尽にグローバルで活躍するスキルを身につけることができる場所です。",
+        "image":"https://nexseed.net/lp/p06/night-course/images/top-page-bg-1.jpg",
+        "publisher": [
+        {
+          "type": "Organization",
+          "name" : "NexSeed",
+          "sameAs": [
+            "https://twitter.com/NexSeed_Cebu",
+            "https://www.facebook.com/NexSeed/"
+          ],
+          "url": "https://nexseed.net/",
+          "logo": [
+          {
+            "@type": "ImageObject",
+            "url": "https://nexseed.net/images/logo.jpg"
+          }
+          ]
+        }
+        ]
+      }
+    </script>
 	<!-- <link rel="stylesheet" href="assets/css/main_test.css" /> -->
 	<!-- <link rel="stylesheet" href="../inc/footer.css"> -->
 	<noscript>
@@ -75,6 +103,11 @@
 
 <!-- <body class="is-preload"> -->
 <body class="">
+	<!-- Google Tag Manager (noscript)-->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMNTKMJ" height="0" width="0" style="display:none;)visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript)-->
 	<!-- Google Tag Manager (noscript) -->
 	<!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K95V8MS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
 	<!-- End Google Tag Manager (noscript) -->
@@ -106,12 +139,12 @@
 		人生を変える24週間<br>
 		『Seed Tech Online 夜間じっくりコース』
 		</p>
-		<!-- <div class="intro-wrap">			
+		<!-- <div class="intro-wrap">
 			<img src="images/new-top-4.png" alt="旅人エンジニア留學" class="intro-img-logo">
 		</div> -->
 		<a href="#work" class="button style2 down anchored hidden">Next</a>
 	</section>
-	
+
 
 	<!-- Covid19 -->
 	<section id="work" class="main style3 primary">
@@ -120,7 +153,7 @@
 				<h2>オンライン留学 Seed Tech Online<br>
 				<span style="color: red;">"夜間じっくりコース"</span>が開講！</h2>
 			</header>
-			<p>				
+			<p>
 				働きながらプログラミングをオンラインで学び、グローバルに活躍できるエンジニアになろう。<br>
 				NexSeedでは、LINEでお問い合わせを承っております。<br>
 				カリキュラムや料金、申込方法について気になることがございましたら、下のボタンよりお友達追加お願いいたします。
@@ -180,11 +213,11 @@
 	<section id="features">
 		<h2 class="feature-title">夜間じっくりコースの特徴</h2>
 		<h3 class="feature-sub-title">Features</h3>
-			
+
 		<div class="feature-cards-wrap">
 			<div class="feature-cards">
 				<div class="feature-card">
-					
+
 					<h3 class="feature-card-title"><span class="feature-num">1</span>就業・就学しながらでも充実した授業内容を実現</h3>
 					<p class="feature-card-description des-one">
 						授業回数は週2回夜の時間での講義と、自習時間も含め24週間（半年間）で400時間以上の学習時間が確保できます。<br>
@@ -193,7 +226,7 @@
 					</p>
 				</div>
 				<div class="feature-card">
-					
+
 					<h3 class="feature-card-title"><span class="feature-num">2</span>仲間と士気を高めあう、挫折しない仕組み</h3>
 					<p class="feature-card-description des-two">
 						2,000名超の卒業生のデータをもとにNexSeedが独自に開発した学習マネジメントシステム(LMS)を用いて、生徒ごとの学習時間やカリキュラム進捗率を可視化します。<br><br>
@@ -201,7 +234,7 @@
 					</p>
 				</div>
 				<div class="feature-card">
-					
+
 					<h3 class="feature-card-title"><span class="feature-num">3</span>夜間コースのみ分割支払いが可能</h3>
 					<p class="feature-card-description des-three">
 						夜間コースのみ分割支払いが最大6回まで可能になります。<br><br>
@@ -210,7 +243,7 @@
 					</p>
 				</div>
 			</div>
-			
+
 		</div>
 	</section>
 
@@ -283,7 +316,7 @@
 					</tr>
 				</tbody>
 			</table>
-			
+
 			<div class="conversion_btn animated">
 				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
 			</div>
@@ -294,9 +327,9 @@
 		<h2>就職/転職サポート</h2>
 		<h3>~世界で活躍できるサポート~</h3>
 		<div class="webinars-wrap">
-			
+
 			<div class="webinar-card">
-				
+
 				<div class="webinar-card-head"></div>
 				<h3>マイナビとの提携</h3>
 				<div class="webinar-icon-box">
@@ -315,9 +348,9 @@
 				‬</p>
 				<!-- <div class="webinar-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=4CAju5">参加する</a></div> -->
 			</div>
-	
+
 			<div class="webinar-card">
-			
+
 				<div class="webinar-card-head"></div>
 				<h3>卒業生の実績ある転職一覧</h3>
 				<div class="webinar-icon-box">
@@ -326,10 +359,10 @@
 				<p>
 					これまで7年間に2,000名以上の卒業生を輩出してきました。卒業後は国内の大手企業だけなく、外資系企業へエンジニアとして就職している方や、起業したりフリーランスとして活躍されている方が多数います。 <br><br>
 					卒業生の転職/就職企業例<br><br>
-					Yahoo!、楽天、ソフトバンク、NTTデータ、Accenture、Twitter、リクルートライフスタイル、リクルート住まいカンパニー、リクルートキャリア、サイバーエージェント、サイバー・バズ、クラウドワークス、メンバーズ 
+					Yahoo!、楽天、ソフトバンク、NTTデータ、Accenture、Twitter、リクルートライフスタイル、リクルート住まいカンパニー、リクルートキャリア、サイバーエージェント、サイバー・バズ、クラウドワークス、メンバーズ
 				</p>
 			</div>
-		
+
 			<div class="webinar-card">
 				<div class="webinar-card-head"></div>
 				<h3>世界16か国で活躍される卒業生</h3>
@@ -342,7 +375,7 @@
 					日本　フィリピン　中国　アメリカ　カナダ　イギリス　オーストラリア　ニュージーランドインド　台湾　タイ　ベトナム　カンボジア　ミャンマー　コロンビア　ペルー
 				</p>
 			</div>
-			
+
 		</div>
 		<div class="absent">
 			<p>
@@ -469,7 +502,7 @@
 					</tr>
 				</tbody>
 			</table>
-			
+
 			<div class="flexwrap right guest">
 				<div class="imgbox-office">
 					<img src="images/mochinaga.jpg" alt="mochinaga">
@@ -544,7 +577,7 @@
 							¥218,000<br>
 							<span class="discount">7月31日までのお申し込みで2万円割引</span>
 						</td>
-						
+
 					</tr>
 					<tr>
 						<th rowspan="1">お申し込み締切</th>
@@ -560,7 +593,7 @@
 					</tr>
 				</tbody>
 			</table>
-			
+
 			<!-- <span class="classmates-note" style="font-size:9pt;">※お問い合わせ状況によって参加人数を増枠する可能性があります。</span><br> -->
 			<!-- <span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br> -->
 			<div class="conversion_btn animated">
@@ -589,13 +622,13 @@
 								受講者様それぞれのお悩みやレベル、目的に合わせた最適なプランをご用意しています。<br>
 								月額/分割お支払いのご相談もしていただけます。
 							</p>
-							
+
 							<div class="app-btn"><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">LINE@で話を聞いてみる</a></div>
-							
+
 						</div>
 					</div>
 				</div>
-				<div class="triangle-down"></div>	
+				<div class="triangle-down"></div>
 				<div class="stepbox">
 					<div class="stepbox-inner">
 						<div class="stepbox-head head2">
@@ -607,12 +640,12 @@
 								具体的な留学スケジュールが決まったら、日本人アドバイザーの案内に従ってお申し込みを進めます。<br>
 								お申し込みの際も、随時ご質問を受け付けておりますので、ご安心ください。
 							</p>
-							
+
 						</div>
 					</div>
 				</div>
 				<div class="triangle-down"></div>
-				
+
 				<div class="stepbox">
 					<div class="stepbox-inner">
 						<div class="stepbox-head head3">
@@ -646,7 +679,7 @@
 					</div>
 				</div>
 			</div>
-		
+
 		</div>
 	</section>
 

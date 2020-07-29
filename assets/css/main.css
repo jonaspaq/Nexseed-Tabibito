@@ -2389,7 +2389,7 @@ body.is-touch .poptrox-popup .closer {
 }
 
 #header h1 img {
-    height: 50%;
+    height: 70%;
 }
 
 #header h1 a {
@@ -2833,7 +2833,7 @@ body.is-touch .main {
     /* background: url("images/overlay.png"), url("../../images/top_ruisu3.jpg"); */
     /* background-image: linear-gradient( to right, rgba(255,255,255,0),  #fff ), url("../../images/top_ruisu3.jpg"); */
     /* background-image: linear-gradient( to right, rgba(0, 0, 0, 0.31), rgba(216, 216, 216, 0.11) ), url(../../images/cover-top-1.JPG); */
-    background-image: linear-gradient( to right, rgba(0, 0, 0, 0.31), rgba(216, 216, 216, 0.11) ), url(../../images/top-page-bg-1.jpg);
+    background-image: linear-gradient( to right, rgba(0, 0, 0, 0.31), rgba(216, 216, 216, 0.11) ), url(../../images/top-page-bg-2.jpg);
     /* background: grey; */
     /* background: rgba(255,255,255,0.7); */
     
@@ -2843,7 +2843,6 @@ body.is-touch .main {
     background-position: 100% 100% 100% 100%;
     background-repeat: no-repeat;
     height: 100vh;
-    margin-top: 50px;
     
 }
 .intro-wrap {
@@ -2857,14 +2856,28 @@ body.is-touch .main {
 }
 
 .intro-text {
+    margin: 0 50px;
     background: rgba(255, 255, 255, 0.7);
     color: rgb(34, 34, 34);
-    font-weight: 700;
     font-size: 40px;
+    letter-spacing: 7.5px;
     line-height: 1.5;
+    z-index: 1;
+    padding: 20px;
 }
 .blue-span {
-    color: rgb(70, 70, 255);
+    font-weight: 700;
+    color: #1678a2;
+}
+
+.blue-span::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 2.2px;
+    border-bottom: 14px solid yellow;
+    z-index: -1;
 }
 
 .fvafter {
@@ -2876,7 +2889,7 @@ body.is-touch .main {
     
     #intro {
         height: 400px;
-        background: url("images/overlay.png"), url("../../images/top-page-bg-1.jpg");
+        background: url("images/overlay.png"), url("../../images/top-page-bg-sp-1.jpg");
         background-size: cover;
         background-position: right;
         background-repeat: no-repeat;
@@ -2890,11 +2903,32 @@ body.is-touch .main {
         margin-left: 0;
     }
     .intro-text {
-        font-size: 20px; 
+        font-size: 21px; 
+        padding: 15px;
+        margin: 0;
     }
     .hidden {
         display: none;
     }
+
+    .blue-span::after {
+        border-bottom: 6.5px solid yellow;
+    }
+
+    #work .mobile {
+        display: block!important;
+        visibility: visible!important;
+    }
+
+    #work .pc {
+        display: none;
+        visibility: hidden;
+    }
+}
+
+#work .mobile {
+    display: none;
+    visibility: hidden;
 }
 
 @media screen and (min-width: 700px) {
@@ -2909,6 +2943,7 @@ body.is-touch .main {
         font-size: 200% !important;
     }
 }
+
 
 .kazuraki-font {
     font-family: kazuraki-sp2n, serif;
@@ -3140,9 +3175,9 @@ body.is-touch .main {
   .contact-body-sp {
     display: block;
   }
-  .contact-body-pc {
+  /* .contact-body-pc {
     display: none;
-  }
+  } */
 }
 /* #contact .box {
     -moz-transition: -moz-transform 1s ease;

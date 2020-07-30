@@ -5,14 +5,14 @@
 <head>
 	<!-- Google Tag Manager-->
   <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-          new Date().getTime(), event: 'gtm.js'
-      }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-MMNTKMJ');
+  //   (function (w, d, s, l, i) {
+  //     w[l] = w[l] || []; w[l].push({
+  //       'gtm.start':
+  //         new Date().getTime(), event: 'gtm.js'
+  //     }); var f = d.getElementsByTagName(s)[0],
+  //       j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+  //         'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  //   })(window, document, 'script', 'dataLayer', 'GTM-MMNTKMJ');
   </script>
   <!-- End Google Tag Manager-->
 	<title>オンライン留学 Seed Tech Online夜間じっくりコースを開講！</title>
@@ -22,28 +22,28 @@
 	<meta name="description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
 
 	<meta property="og:title" content="オンライン留学 Seed Tech Online夜間じっくりコースを開講！">
-	<meta property="og:description" content="Seed Tech Schoolが運営するオンライン留学Seed Tech Onlineの「夜間じっくりコース」です。就学・就業しながら24週間でPHPをメインに、データベースと連携したWebアプリの開発を行い、エンジニアに転職するためのスキルを身に着けます。">
+	<meta property="og:description" content="旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="http://nexseed.net/lp/tabibito-engineer">
-	<!-- <meta property="og:image" content="https://nexseed.net/meta_top_img.png"> -->
-	<meta property="og:image" content="images/top-page-bg-1.jpg">
-	<meta name="thumbnail" content="https://nexseed.net/meta_top_img.png" />
+	<meta property="og:url" content="http://nexseed.net/lp/night-course">
+	<meta property="og:image" content="https://nexseed.net/lp/night-course/images/top-page-bg-1.jpg">
+	<meta name="thumbnail" content="https://nexseed.net/lp/night-course/images/top-page-bg-1.jpg" />
 	<link rel="shortcut icon" href="https://nexseed.net/n-icon.png" />
 	<link rel="stylesheet" href="assets/css/main.css" />
+	<meta name="twitter:card" content="summary_large_image" />
 
 <script type="application/ld+json">
       {
         "@context": "http://schema.org",
         "@type": "WebPage",
-        "url":"https://nexseed.net/lp/night-course/",
+        "url":"https://nexseed.net/lp/night-course",
         "name" : "オンライン留学 Seed Tech Online夜間じっくりコースを開講！",
         "headline": "オンライン留学 Seed Tech Online夜間じっくりコースを開講！",
         "mainEntityOfPage":{
           "@type": "WebPage",
-          "@id":"https://nexseed.net/lp/night-course/"
+          "@id":"https://nexseed.net/lp/night-course"
         },
         "datePublished": "2020-06-27",
-        "description": "エンジニア留学はそんなITによって国という垣根がなくなっていく新時代に、縦横無尽にグローバルで活躍するスキルを身につけることができる場所です。",
+        "description": "旅人エンジニアになるために3週間で英語とWordPressの知識、自分の仕事を作るノウハウを学ぶ留学です。事前学習＋3週間の留学で、月に5万円稼げるプログラミングスキルを身に付けることを旅人エンジニア留学のゴールとします。",
         "image":"https://nexseed.net/lp/p06/night-course/images/top-page-bg-1.jpg",
         "publisher": [
         {

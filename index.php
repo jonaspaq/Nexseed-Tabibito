@@ -105,7 +105,7 @@
 <body class="">
 	<!-- Google Tag Manager (noscript)-->
   <noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMNTKMJ" height="0" width="0" style="display:none;)visibility:hidden"></iframe>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMNTKMJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
   </noscript>
   <!-- End Google Tag Manager (noscript)-->
 	<!-- Google Tag Manager (noscript) -->
@@ -164,8 +164,8 @@
 			</p>
 
 			<div class="conversion_btn animated">
-				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh
-				">詳細を<span class="line-text">LINE</span>で問い合わせ</a></p>
+				<p><a href="https://forms.gle/dwbo2ZPfrY8rUPkf6
+				">資料のご請求</a></p>
 			</div>
 		</div>
 	</section>
@@ -264,8 +264,8 @@
 			</header>
 
 			<div class="conversion_btn animated">
-				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh
-				">詳細を<span class="line-text">LINE</span>で問い合わせ</a></p>
+				<p><a href="https://forms.gle/dwbo2ZPfrY8rUPkf6
+				">資料のご請求</a></p>
 			</div>
 		</div>
 	</section>
@@ -325,7 +325,7 @@
 			</table>
 
 			<div class="conversion_btn animated">
-				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
+				<p><a href="https://forms.gle/dwbo2ZPfrY8rUPkf6">資料のご請求</a></p>
 			</div>
 		</div>
 	</section>
@@ -395,8 +395,8 @@
 			</div> -->
 			<div class="conversion_btn animated">
 				<p>
-					<a class="line-btn" href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">
-						詳細を <span class="line-text">LINE</span>で問い合わせ
+					<a class="line-btn" href="https://forms.gle/dwbo2ZPfrY8rUPkf6">
+					資料のご請求
 					</a>
 				</p>
 			</div>
@@ -608,7 +608,7 @@
 			<!-- <span class="classmates-note" style="font-size:9pt;">※お問い合わせ状況によって参加人数を増枠する可能性があります。</span><br> -->
 			<!-- <span class="holiday-note hide-element" style="font-size:9pt;">※9月3日の英語授業はフィリピン祝日のため休校になります。（第3回）</span><br> -->
 			<div class="conversion_btn animated">
-				<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
+				<p><a href="https://forms.gle/dwbo2ZPfrY8rUPkf6">資料のご請求</a></p>
 			</div>
 		</div>
 	</section>
@@ -815,13 +815,13 @@
 				<p>資料請求はこちらから。どのような相談でも構いません。お気軽にご相談ください。</p>
 			</header>
 			<div class="contact-body">
-				<div class="contact-body-pc">
+				<!-- <div class="contact-body-pc">
 					<p>スマートフォンでご覧ください</p>
 					<img src="images/qr-code-3.png" alt="lineat_qrcode">
 					<p>LINEアプリを起動して、QRコードを読み取ってください。</p>
-				</div>
+				</div> -->
 				<div class="conversion_btn animated">
-					<p><a href="https://landing.lineml.jp/r/1638679644-4O1W9WP9?lp=v3qngh">詳細をLINEで問い合わせ</a></p>
+					<p><a href="https://forms.gle/dwbo2ZPfrY8rUPkf6">資料のご請求</a></p>
 				</div>
 			</div>
 		</div>

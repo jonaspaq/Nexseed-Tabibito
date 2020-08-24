@@ -188,7 +188,7 @@
 		<div class="rec-wrap">
 			<div class="rec-item">
 				<div class="recommend-icon-box">
-					<img class="recommend-icon" src="images/photo-12.jpg" alt="recommend">
+					<img class="recommend-icon" src="./images/photo-12.jpg" alt="recommend">
 				</div>
 				<div class="rec-item-bottom">
 					<h3><em>1.</em>仕事をしながらプログラミング学習を両立したい人</h3>
@@ -200,7 +200,7 @@
 			</div>
 			<div class="rec-item">
 				<div class="recommend-icon-box">
-					<img class="recommend-icon" src="images/photo-13.jpg" alt="recommend">
+					<img class="recommend-icon" src="./images/photo-13.jpg" alt="recommend">
 				</div>
 				<div class="rec-item-bottom">
 					<h3><em>2.</em>自習時間をしっかり取りたい人</h3>
@@ -213,7 +213,7 @@
 			</div>
 			<div class="rec-item">
 				<div class="recommend-icon-box">
-					<img class="recommend-icon" src="images/photo-14.jpg" alt="recommend">
+					<img class="recommend-icon" src="./images/photo-14.jpg" alt="recommend">
 				</div>
 				<div class="rec-item-bottom">
 					<h3><em>3.</em>マーケティング・ディレクションをしながらエンジニアにもなりたい人</h3>
@@ -428,7 +428,7 @@
 			</header>
 			<div class="flexwrap">
 				<div class="imgbox-office">
-					<img src="images/shinya-2.jpg" alt="shinya">
+					<img src="./images/shinya-2.jpg" alt="shinya">
 				</div>
 				<div class="textbox-office">
 					<h3>Shinya Hirai</h3>
@@ -442,7 +442,7 @@
 
 			<div class="flexwrap right">
 				<div class="imgbox-office">
-					<img src="images/hayato-2.jpg" alt="hayato">
+					<img src="./images/hayato-2.jpg" alt="hayato">
 				</div>
 				<div class="textbox-office right">
 					<h3>Hayato Sasano</h3>
@@ -457,7 +457,7 @@
 
 			<div class="flexwrap">
 				<div class="imgbox-office">
-					<img src="images/takeru_kayamori.jpg" alt="takerukayamori">
+					<img src="./images/takeru_kayamori.jpg" alt="takerukayamori">
 				</div>
 				<div class="textbox-office">
 					<h3>Takeru Kayamori</h3>
@@ -495,7 +495,6 @@
 					<tr>
 						<th rowspan="1">曜日・時間</th>
 						<td colspan="3">
-						第1期：火・金　19～21時<br>
 						第2期：月・木　19〜21時<br>
 						授業の曜日は開講時期によって異なります。
 						</td>
@@ -525,7 +524,7 @@
 				</tbody>
 			</table>
 
-			<div class="flexwrap right guest">
+			<!-- <div class="flexwrap right guest">
 				<div class="imgbox-office">
 					<img src="images/mochinaga.jpg" alt="mochinaga">
 				</div>
@@ -547,7 +546,7 @@
 						<span> instagram @mami_mochinaga</span>
 					</p>
 				</div>
-			</div>
+			</div> -->
 			<!-- <img src="images/graph-c-2.png" class="graph-c-2-img" /> -->
 
 			<table class="table-b table-d table-d-b hide-element">

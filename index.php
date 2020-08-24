@@ -35,7 +35,7 @@
 	<meta property="og:image" content="https://nexseed.net/lp/night-course/images/top-page-bg-1.jpg">
 	<meta name="thumbnail" content="https://nexseed.net/lp/night-course/images/top-page-bg-1.jpg" />
 	<link rel="shortcut icon" href="https://nexseed.net/n-icon.png" />
-	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="./assets/css/main.css" />
 	<meta name="twitter:card" content="summary_large_image" />
 
 <script type="application/ld+json">
